@@ -1,0 +1,6834 @@
+[
+    {
+        "codigo": "RAIZ4",
+        "ticker": "RAIZ4.SA",
+        "nome": "RAIZEN S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PETR4",
+        "ticker": "PETR4.SA",
+        "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "B3SA3",
+        "ticker": "B3SA3.SA",
+        "nome": "B3 S.A. - BRASIL. BOLSA. BALCÃO",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "CSAN3",
+        "ticker": "CSAN3.SA",
+        "nome": "COSAN S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "ITUB4",
+        "ticker": "ITUB4.SA",
+        "nome": "ITAU UNIBANCO HOLDING S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BBDC4",
+        "ticker": "BBDC4.SA",
+        "nome": "BCO BRADESCO S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ITSA4",
+        "ticker": "ITSA4.SA",
+        "nome": "ITAUSA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MGLU3",
+        "ticker": "MGLU3.SA",
+        "nome": "MAGAZINE LUIZA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ABEV3",
+        "ticker": "ABEV3.SA",
+        "nome": "AMBEV S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CSNA3",
+        "ticker": "CSNA3.SA",
+        "nome": "CIA SIDERURGICA NACIONAL",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "COGN3",
+        "ticker": "COGN3.SA",
+        "nome": "COGNA EDUCAÇÃO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "USIM5",
+        "ticker": "USIM5.SA",
+        "nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BBAS3",
+        "ticker": "BBAS3.SA",
+        "nome": "BCO BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "VALE3",
+        "ticker": "VALE3.SA",
+        "nome": "VALE S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "NATU3",
+        "ticker": "NATU3.SA",
+        "nome": "NATURA COSMETICOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "LREN3",
+        "ticker": "LREN3.SA",
+        "nome": "LOJAS RENNER S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SBSP3",
+        "ticker": "SBSP3.SA",
+        "nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "CPLE3",
+        "ticker": "CPLE3.SA",
+        "nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BRKM5",
+        "ticker": "BRKM5.SA",
+        "nome": "BRASKEM S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "VAMO3",
+        "ticker": "VAMO3.SA",
+        "nome": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "VBBR3",
+        "ticker": "VBBR3.SA",
+        "nome": "VIBRA ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "RADL3",
+        "ticker": "RADL3.SA",
+        "nome": "RAIA DROGASIL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MRVE3",
+        "ticker": "MRVE3.SA",
+        "nome": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GOAU4",
+        "ticker": "GOAU4.SA",
+        "nome": "METALURGICA GERDAU S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "PETR3",
+        "ticker": "PETR3.SA",
+        "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "MOTV3",
+        "ticker": "MOTV3.SA",
+        "nome": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "BEEF3",
+        "ticker": "BEEF3.SA",
+        "nome": "MINERVA S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "AXIA3",
+        "ticker": "AXIA3.SA",
+        "nome": "AXIA3",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "ENEV3",
+        "ticker": "ENEV3.SA",
+        "nome": "ENEVA S.A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "ASAI3",
+        "ticker": "ASAI3.SA",
+        "nome": "SENDAS DISTRIBUIDORA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CVCB3",
+        "ticker": "CVCB3.SA",
+        "nome": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "WEGE3",
+        "ticker": "WEGE3.SA",
+        "nome": "WEG S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ONCO3",
+        "ticker": "ONCO3.SA",
+        "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS  S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "CMIG4",
+        "ticker": "CMIG4.SA",
+        "nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "MBRF3",
+        "ticker": "MBRF3.SA",
+        "nome": "MBRF3",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CMIN3",
+        "ticker": "CMIN3.SA",
+        "nome": "CSN MINERAÇÃO S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "DIRR3",
+        "ticker": "DIRR3.SA",
+        "nome": "DIRECIONAL ENGENHARIA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "GGBR4",
+        "ticker": "GGBR4.SA",
+        "nome": "GERDAU S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "PRIO3",
+        "ticker": "PRIO3.SA",
+        "nome": "PRIO S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "BRAV3",
+        "ticker": "BRAV3.SA",
+        "nome": "BRAVA ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "EQTL3",
+        "ticker": "EQTL3.SA",
+        "nome": "EQUATORIAL S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "RAIL3",
+        "ticker": "RAIL3.SA",
+        "nome": "RUMO S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "RDOR3",
+        "ticker": "RDOR3.SA",
+        "nome": "REDE DOR SÃO LUIZ S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "CYRE3",
+        "ticker": "CYRE3.SA",
+        "nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "UGPA3",
+        "ticker": "UGPA3.SA",
+        "nome": "ULTRAPAR PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "TIMS3",
+        "ticker": "TIMS3.SA",
+        "nome": "TIM S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "POMO4",
+        "ticker": "POMO4.SA",
+        "nome": "MARCOPOLO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TOTS3",
+        "ticker": "TOTS3.SA",
+        "nome": "TOTVS S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ALOS3",
+        "ticker": "ALOS3.SA",
+        "nome": "ALLOS S.A",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AMBP3",
+        "ticker": "AMBP3.SA",
+        "nome": "AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RENT3",
+        "ticker": "RENT3.SA",
+        "nome": "LOCALIZA RENT A CAR S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "VIVT3",
+        "ticker": "VIVT3.SA",
+        "nome": "TELEFÔNICA BRASIL S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SMFT3",
+        "ticker": "SMFT3.SA",
+        "nome": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SAUD3",
+        "ticker": "SAUD3.SA",
+        "nome": "SAUD3",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "ECOR3",
+        "ticker": "ECOR3.SA",
+        "nome": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "PCAR3",
+        "ticker": "PCAR3.SA",
+        "nome": "CIA BRASILEIRA DE DISTRIBUICAO",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JHSF3",
+        "ticker": "JHSF3.SA",
+        "nome": "JHSF PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "PGMN3",
+        "ticker": "PGMN3.SA",
+        "nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "HAPV3",
+        "ticker": "HAPV3.SA",
+        "nome": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "CURY3",
+        "ticker": "CURY3.SA",
+        "nome": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "GMAT3",
+        "ticker": "GMAT3.SA",
+        "nome": "GRUPO MATEUS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "LWSA3",
+        "ticker": "LWSA3.SA",
+        "nome": "LWSA S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ITUB3",
+        "ticker": "ITUB3.SA",
+        "nome": "ITAU UNIBANCO HOLDING S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "CSMG3",
+        "ticker": "CSMG3.SA",
+        "nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "CEAB3",
+        "ticker": "CEAB3.SA",
+        "nome": "CEA MODAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ROXO34",
+        "ticker": "ROXO34.SA",
+        "nome": "ROXO34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AUAU3",
+        "ticker": "AUAU3.SA",
+        "nome": "UNIÃO PET PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "NVDC34",
+        "ticker": "NVDC34.SA",
+        "nome": "NVDC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "FLRY3",
+        "ticker": "FLRY3.SA",
+        "nome": "FLEURY S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "SUZB3",
+        "ticker": "SUZB3.SA",
+        "nome": "SUZANO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "BHIA3",
+        "ticker": "BHIA3.SA",
+        "nome": "GRUPO CASAS BAHIA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CXSE3",
+        "ticker": "CXSE3.SA",
+        "nome": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MOVI3",
+        "ticker": "MOVI3.SA",
+        "nome": "MOVIDA PARTICIPACOES SA",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "KLBN4",
+        "ticker": "KLBN4.SA",
+        "nome": "KLABIN S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BBSE3",
+        "ticker": "BBSE3.SA",
+        "nome": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "YDUQ3",
+        "ticker": "YDUQ3.SA",
+        "nome": "YDUQS PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PLPL3",
+        "ticker": "PLPL3.SA",
+        "nome": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "EMBJ3",
+        "ticker": "EMBJ3.SA",
+        "nome": "EMBJ3",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "AZZA3",
+        "ticker": "AZZA3.SA",
+        "nome": "AZZAS 2154 S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BBDC3",
+        "ticker": "BBDC3.SA",
+        "nome": "BCO BRADESCO S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "LJQQ3",
+        "ticker": "LJQQ3.SA",
+        "nome": "LOJAS QUERO-QUERO S/A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CBAV3",
+        "ticker": "CBAV3.SA",
+        "nome": "COMPANHIA BRASILEIRA DE ALUMÍNIO",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "PMAM3",
+        "ticker": "PMAM3.SA",
+        "nome": "PARANAPANEMA S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "LOGG3",
+        "ticker": "LOGG3.SA",
+        "nome": "LOG COMMERCIAL PROPERTIES",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "ANIM3",
+        "ticker": "ANIM3.SA",
+        "nome": "ANIMA HOLDING S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RCSL4",
+        "ticker": "RCSL4.SA",
+        "nome": "RECRUSUL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RAPT4",
+        "ticker": "RAPT4.SA",
+        "nome": "RANDONCORP S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BRSR6",
+        "ticker": "BRSR6.SA",
+        "nome": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "M2ST34",
+        "ticker": "M2ST34.SA",
+        "nome": "M2ST34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "HBSA3",
+        "ticker": "HBSA3.SA",
+        "nome": "HIDROVIAS DO BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "TEND3",
+        "ticker": "TEND3.SA",
+        "nome": "CONSTRUTORA TENDA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "SLCE3",
+        "ticker": "SLCE3.SA",
+        "nome": "SLC AGRICOLA S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "MULT3",
+        "ticker": "MULT3.SA",
+        "nome": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "QUAL3",
+        "ticker": "QUAL3.SA",
+        "nome": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "LIGT3",
+        "ticker": "LIGT3.SA",
+        "nome": "LIGHT S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "HYPE3",
+        "ticker": "HYPE3.SA",
+        "nome": "HYPERA S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "VIVA3",
+        "ticker": "VIVA3.SA",
+        "nome": "VIVARA PARTICIPAÇOES S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ISAE4",
+        "ticker": "ISAE4.SA",
+        "nome": "ISA ENERGIA BRASIL S.A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "SEQL3",
+        "ticker": "SEQL3.SA",
+        "nome": "SEQUOIA LOGISTICA E TRANSPORTES S.A",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "GGPS3",
+        "ticker": "GGPS3.SA",
+        "nome": "GPS PARTICIPACOES E EMPREENDIMENTOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GRND3",
+        "ticker": "GRND3.SA",
+        "nome": "GRENDENE S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "EGIE3",
+        "ticker": "EGIE3.SA",
+        "nome": "ENGIE BRASIL ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "INTB3",
+        "ticker": "INTB3.SA",
+        "nome": "INTELBRAS S.A. IND DE TELEC ELETRONICA BRASILEIRA",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "AURE3",
+        "ticker": "AURE3.SA",
+        "nome": "AUREN ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "RECV3",
+        "ticker": "RECV3.SA",
+        "nome": "PETRORECÔNCAVO S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "SIMH3",
+        "ticker": "SIMH3.SA",
+        "nome": "SIMPAR S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "TTEN3",
+        "ticker": "TTEN3.SA",
+        "nome": "TRÊS TENTOS AGROINDUSTRIAL S/A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ALPA4",
+        "ticker": "ALPA4.SA",
+        "nome": "ALPARGATAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ABCB4",
+        "ticker": "ABCB4.SA",
+        "nome": "BCO ABC BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "PSSA3",
+        "ticker": "PSSA3.SA",
+        "nome": "PORTO SEGURO S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AZEV4",
+        "ticker": "AZEV4.SA",
+        "nome": "AZEVEDO E TRAVASSOS S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BRAP4",
+        "ticker": "BRAP4.SA",
+        "nome": "BRADESPAR S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "SMTO3",
+        "ticker": "SMTO3.SA",
+        "nome": "SAO MARTINHO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "SBFG3",
+        "ticker": "SBFG3.SA",
+        "nome": "GRUPO SBF SA",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CPFE3",
+        "ticker": "CPFE3.SA",
+        "nome": "CPFL ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BMGB4",
+        "ticker": "BMGB4.SA",
+        "nome": "BANCO BMG S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "INBR32",
+        "ticker": "INBR32.SA",
+        "nome": "INTER CO INC",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AMER3",
+        "ticker": "AMER3.SA",
+        "nome": "AMERICANAS S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SOJA3",
+        "ticker": "SOJA3.SA",
+        "nome": "BOA SAFRA SEMENTES S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "DXCO3",
+        "ticker": "DXCO3.SA",
+        "nome": "DEXCO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "POSI3",
+        "ticker": "POSI3.SA",
+        "nome": "POSITIVO TECNOLOGIA S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "AZTE3",
+        "ticker": "AZTE3.SA",
+        "nome": "AZEVEDO & TRAVASSOS ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "KEPL3",
+        "ticker": "KEPL3.SA",
+        "nome": "KEPLER WEBER S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "EZTC3",
+        "ticker": "EZTC3.SA",
+        "nome": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "KLBN3",
+        "ticker": "KLBN3.SA",
+        "nome": "KLABIN S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "SAPR4",
+        "ticker": "SAPR4.SA",
+        "nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "EVEN3",
+        "ticker": "EVEN3.SA",
+        "nome": "EVEN CONSTRUTORA E INCORPORADORA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "PASS3",
+        "ticker": "PASS3.SA",
+        "nome": "COMPASS GAS E ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "RIAA3",
+        "ticker": "RIAA3.SA",
+        "nome": "RIAA3",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "MDNE3",
+        "ticker": "MDNE3.SA",
+        "nome": "MOURA DUBEUX ENGENHARIA S/A",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "TUPY3",
+        "ticker": "TUPY3.SA",
+        "nome": "TUPY S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MLAS3",
+        "ticker": "MLAS3.SA",
+        "nome": "GRUPO MULTI S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "VITT3",
+        "ticker": "VITT3.SA",
+        "nome": "VITTIA S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "AXIA7",
+        "ticker": "AXIA7.SA",
+        "nome": "AXIA7",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "CASH3",
+        "ticker": "CASH3.SA",
+        "nome": "MÉLIUZ S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PINE4",
+        "ticker": "PINE4.SA",
+        "nome": "BCO PINE S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "JBSS32",
+        "ticker": "JBSS32.SA",
+        "nome": "JBS N.V.",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "VTRU3",
+        "ticker": "VTRU3.SA",
+        "nome": "VITRU EDUCAÇÃO S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MILS3",
+        "ticker": "MILS3.SA",
+        "nome": "MILLS LOCAÇÃO. SERVIÇOS E LOGÍSTICA S.A",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MDIA3",
+        "ticker": "MDIA3.SA",
+        "nome": "M.DIAS BRANCO S.A. IND COM DE ALIMENTOS",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TSLA34",
+        "ticker": "TSLA34.SA",
+        "nome": "TSLA34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ORVR3",
+        "ticker": "ORVR3.SA",
+        "nome": "ORIZON VALORIZACAO DE RESIDUOS S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "TFCO4",
+        "ticker": "TFCO4.SA",
+        "nome": "TRACK & FIELD CO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "VULC3",
+        "ticker": "VULC3.SA",
+        "nome": "VULCABRAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "DASA3",
+        "ticker": "DASA3.SA",
+        "nome": "DIAGNOSTICOS DA AMERICA S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "MYPK3",
+        "ticker": "MYPK3.SA",
+        "nome": "IOCHPE MAXION S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AURA33",
+        "ticker": "AURA33.SA",
+        "nome": "AURA MINERALS INC.",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "LAVV3",
+        "ticker": "LAVV3.SA",
+        "nome": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "VVEO3",
+        "ticker": "VVEO3.SA",
+        "nome": "CM HOSPITALAR S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "FESA4",
+        "ticker": "FESA4.SA",
+        "nome": "CIA FERRO LIGAS DA BAHIA - FERBASA",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "MELI34",
+        "ticker": "MELI34.SA",
+        "nome": "MELI34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JSLG3",
+        "ticker": "JSLG3.SA",
+        "nome": "JSL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "CAML3",
+        "ticker": "CAML3.SA",
+        "nome": "CAMIL ALIMENTOS S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "RANI3",
+        "ticker": "RANI3.SA",
+        "nome": "IRANI PAPEL E EMBALAGEM S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "XPBR31",
+        "ticker": "XPBR31.SA",
+        "nome": "XP INC.",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ESPA3",
+        "ticker": "ESPA3.SA",
+        "nome": "MPM CORPÓREOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ARML3",
+        "ticker": "ARML3.SA",
+        "nome": "ARMAC LOCAÇÃO. LOGÍSTICA E SERVIÇOS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ITLC34",
+        "ticker": "ITLC34.SA",
+        "nome": "ITLC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "PNVL3",
+        "ticker": "PNVL3.SA",
+        "nome": "DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CYRE4",
+        "ticker": "CYRE4.SA",
+        "nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "DESK3",
+        "ticker": "DESK3.SA",
+        "nome": "DESKTOP S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GFSA3",
+        "ticker": "GFSA3.SA",
+        "nome": "GAFISA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "FIQE3",
+        "ticker": "FIQE3.SA",
+        "nome": "UNIFIQUE TELECOMUNICAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "HBOR3",
+        "ticker": "HBOR3.SA",
+        "nome": "HELBOR EMPREENDIMENTOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AMZO34",
+        "ticker": "AMZO34.SA",
+        "nome": "AMZO34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MSFT34",
+        "ticker": "MSFT34.SA",
+        "nome": "MSFT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "SEER3",
+        "ticker": "SEER3.SA",
+        "nome": "SER EDUCACIONAL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JALL3",
+        "ticker": "JALL3.SA",
+        "nome": "JALLES MACHADO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "NFLX34",
+        "ticker": "NFLX34.SA",
+        "nome": "NFLX34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "AZEV3",
+        "ticker": "AZEV3.SA",
+        "nome": "AZEVEDO E TRAVASSOS S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "USIM3",
+        "ticker": "USIM3.SA",
+        "nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "SYNE3",
+        "ticker": "SYNE3.SA",
+        "nome": "SYN PROP E TECH S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BMOB3",
+        "ticker": "BMOB3.SA",
+        "nome": "BEMOBI MOBILE TECH S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "MTRE3",
+        "ticker": "MTRE3.SA",
+        "nome": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "POMO3",
+        "ticker": "POMO3.SA",
+        "nome": "MARCOPOLO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "OPCT3",
+        "ticker": "OPCT3.SA",
+        "nome": "OCEANPACT SERVICOS MARITIMOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "VLID3",
+        "ticker": "VLID3.SA",
+        "nome": "VALID SOLUÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AVGO34",
+        "ticker": "AVGO34.SA",
+        "nome": "AVGO34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "PTBL3",
+        "ticker": "PTBL3.SA",
+        "nome": "PBG S/A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RENT4",
+        "ticker": "RENT4.SA",
+        "nome": "LOCALIZA RENT A CAR S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AAPL34",
+        "ticker": "AAPL34.SA",
+        "nome": "AAPL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TASA4",
+        "ticker": "TASA4.SA",
+        "nome": "TAURUS ARMAS S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "CSED3",
+        "ticker": "CSED3.SA",
+        "nome": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "M2RV34",
+        "ticker": "M2RV34.SA",
+        "nome": "M2RV34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "LAND3",
+        "ticker": "LAND3.SA",
+        "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MUTC34",
+        "ticker": "MUTC34.SA",
+        "nome": "MUTC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "OIBR3",
+        "ticker": "OIBR3.SA",
+        "nome": "OI S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SHUL4",
+        "ticker": "SHUL4.SA",
+        "nome": "SCHULZ S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MELK3",
+        "ticker": "MELK3.SA",
+        "nome": "MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "T2TD34",
+        "ticker": "T2TD34.SA",
+        "nome": "T2TD34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "PRNR3",
+        "ticker": "PRNR3.SA",
+        "nome": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "IRBR3",
+        "ticker": "IRBR3.SA",
+        "nome": "IRB - BRASIL RESSEGUROS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ENJU3",
+        "ticker": "ENJU3.SA",
+        "nome": "ENJOEI S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TRIS3",
+        "ticker": "TRIS3.SA",
+        "nome": "TRISUL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BRST3",
+        "ticker": "BRST3.SA",
+        "nome": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "LEVE3",
+        "ticker": "LEVE3.SA",
+        "nome": "MAHLE-METAL LEVE S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "WIZC3",
+        "ticker": "WIZC3.SA",
+        "nome": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AMAR3",
+        "ticker": "AMAR3.SA",
+        "nome": "MARISA LOJAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BCHI39",
+        "ticker": "BCHI39.SA",
+        "nome": "ISHARES MSCI CHINA ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "OBTC3",
+        "ticker": "OBTC3.SA",
+        "nome": "ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "GOGL34",
+        "ticker": "GOGL34.SA",
+        "nome": "GOGL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "A1MD34",
+        "ticker": "A1MD34.SA",
+        "nome": "A1MD34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "N1OW34",
+        "ticker": "N1OW34.SA",
+        "nome": "N1OW34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "M1TA34",
+        "ticker": "M1TA34.SA",
+        "nome": "M1TA34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ETER3",
+        "ticker": "ETER3.SA",
+        "nome": "ETERNIT S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BLAU3",
+        "ticker": "BLAU3.SA",
+        "nome": "BLAU FARMACÊUTICA S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "FRAS3",
+        "ticker": "FRAS3.SA",
+        "nome": "FRASLE MOBILITY S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PFRM3",
+        "ticker": "PFRM3.SA",
+        "nome": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "G2DI33",
+        "ticker": "G2DI33.SA",
+        "nome": "G2D INVESTMENTS LTD",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "NGRD3",
+        "ticker": "NGRD3.SA",
+        "nome": "NEOGRID PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ORCL34",
+        "ticker": "ORCL34.SA",
+        "nome": "ORCL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ROMI3",
+        "ticker": "ROMI3.SA",
+        "nome": "ROMI S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "HBRE3",
+        "ticker": "HBRE3.SA",
+        "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS S/A",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MATD3",
+        "ticker": "MATD3.SA",
+        "nome": "HOSPITAL MATER DEI S/A",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "UNIP6",
+        "ticker": "UNIP6.SA",
+        "nome": "UNIPAR CARBOCLORO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "EUCA4",
+        "ticker": "EUCA4.SA",
+        "nome": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "TAEE4",
+        "ticker": "TAEE4.SA",
+        "nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "ALLD3",
+        "ticker": "ALLD3.SA",
+        "nome": "ALLIED TECNOLOGIA S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TOKY3",
+        "ticker": "TOKY3.SA",
+        "nome": "TOKY3",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BABA34",
+        "ticker": "BABA34.SA",
+        "nome": "BABA34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SANB4",
+        "ticker": "SANB4.SA",
+        "nome": "BCO SANTANDER (BRASIL) S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AGRO3",
+        "ticker": "AGRO3.SA",
+        "nome": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "TGMA3",
+        "ticker": "TGMA3.SA",
+        "nome": "TEGMA GESTAO LOGISTICA S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "SAPR3",
+        "ticker": "SAPR3.SA",
+        "nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "TSMC34",
+        "ticker": "TSMC34.SA",
+        "nome": "TSMC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BRKM3",
+        "ticker": "BRKM3.SA",
+        "nome": "BRASKEM S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "BKNG34",
+        "ticker": "BKNG34.SA",
+        "nome": "BKNG34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SANB3",
+        "ticker": "SANB3.SA",
+        "nome": "BCO SANTANDER (BRASIL) S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ALPK3",
+        "ticker": "ALPK3.SA",
+        "nome": "ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "DEXP3",
+        "ticker": "DEXP3.SA",
+        "nome": "DEXXOS PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "IFCM3",
+        "ticker": "IFCM3.SA",
+        "nome": "INFRACOMMERCE CXAAS S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "PAGS34",
+        "ticker": "PAGS34.SA",
+        "nome": "PAGS34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "QCOM34",
+        "ticker": "QCOM34.SA",
+        "nome": "QCOM34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BSLV39",
+        "ticker": "BSLV39.SA",
+        "nome": "ISHARES SILVER TRUST",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AZUL3",
+        "ticker": "AZUL3.SA",
+        "nome": "AZUL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "C2OI34",
+        "ticker": "C2OI34.SA",
+        "nome": "C2OI34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ITSA3",
+        "ticker": "ITSA3.SA",
+        "nome": "ITAUSA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MEAL3",
+        "ticker": "MEAL3.SA",
+        "nome": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GGBR3",
+        "ticker": "GGBR3.SA",
+        "nome": "GERDAU S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BCTE39",
+        "ticker": "BCTE39.SA",
+        "nome": "GLOBAL X CLIMATETECH ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A2RE34",
+        "ticker": "A2RE34.SA",
+        "nome": "A2RE34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "LPSB3",
+        "ticker": "LPSB3.SA",
+        "nome": "LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BEWY39",
+        "ticker": "BEWY39.SA",
+        "nome": "ISHARES MSCI SOUTH KOREA ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RNEW3",
+        "ticker": "RNEW3.SA",
+        "nome": "RENOVA ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BIOM3",
+        "ticker": "BIOM3.SA",
+        "nome": "BIOMM S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "TAEE3",
+        "ticker": "TAEE3.SA",
+        "nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BEEM39",
+        "ticker": "BEEM39.SA",
+        "nome": "ISHARES MSCI EMERGING MARKETS ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BURA39",
+        "ticker": "BURA39.SA",
+        "nome": "GLOBAL X URANIUM ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "DMVF3",
+        "ticker": "DMVF3.SA",
+        "nome": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "S2GM34",
+        "ticker": "S2GM34.SA",
+        "nome": "S2GM34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BACW39",
+        "ticker": "BACW39.SA",
+        "nome": "ISHARES MSCI ACWI ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JFEN3",
+        "ticker": "JFEN3.SA",
+        "nome": "JOAO FORTES ENGENHARIA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "P2LT34",
+        "ticker": "P2LT34.SA",
+        "nome": "P2LT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TECN3",
+        "ticker": "TECN3.SA",
+        "nome": "TECHNOS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ADBE34",
+        "ticker": "ADBE34.SA",
+        "nome": "ADBE34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "P2AN34",
+        "ticker": "P2AN34.SA",
+        "nome": "P2AN34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "N1VO34",
+        "ticker": "N1VO34.SA",
+        "nome": "N1VO34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "ASML34",
+        "ticker": "ASML34.SA",
+        "nome": "ASML34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "LUPA3",
+        "ticker": "LUPA3.SA",
+        "nome": "LUPATECH S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "EXXO34",
+        "ticker": "EXXO34.SA",
+        "nome": "EXXO34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "TPIS3",
+        "ticker": "TPIS3.SA",
+        "nome": "TPI - TRIUNFO PARTICIP. E INVEST. S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "CMIG3",
+        "ticker": "CMIG3.SA",
+        "nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BERK34",
+        "ticker": "BERK34.SA",
+        "nome": "BERK34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "COCE5",
+        "ticker": "COCE5.SA",
+        "nome": "CIA ENERGETICA DO CEARA - COELCE",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BRAP3",
+        "ticker": "BRAP3.SA",
+        "nome": "BRADESPAR S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "S2NW34",
+        "ticker": "S2NW34.SA",
+        "nome": "S2NW34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BAZA3",
+        "ticker": "BAZA3.SA",
+        "nome": "BCO AMAZONIA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "DEXP4",
+        "ticker": "DEXP4.SA",
+        "nome": "DEXXOS PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "TCSA3",
+        "ticker": "TCSA3.SA",
+        "nome": "TECNISA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "CSUD3",
+        "ticker": "CSUD3.SA",
+        "nome": "CSU DIGITAL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JPMC34",
+        "ticker": "JPMC34.SA",
+        "nome": "JPMC34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "COCA34",
+        "ticker": "COCA34.SA",
+        "nome": "COCA34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "NIKE34",
+        "ticker": "NIKE34.SA",
+        "nome": "NIKE34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PYPL34",
+        "ticker": "PYPL34.SA",
+        "nome": "PYPL34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "IBIT39",
+        "ticker": "IBIT39.SA",
+        "nome": "ISHARES BITCOIN TRUST",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PEPB34",
+        "ticker": "PEPB34.SA",
+        "nome": "PEPB34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CAMB3",
+        "ticker": "CAMB3.SA",
+        "nome": "CAMBUCI S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "VIVR3",
+        "ticker": "VIVR3.SA",
+        "nome": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1PL34",
+        "ticker": "A1PL34.SA",
+        "nome": "A1PL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "DUOL34",
+        "ticker": "DUOL34.SA",
+        "nome": "DUOL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "UCAS3",
+        "ticker": "UCAS3.SA",
+        "nome": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "LILY34",
+        "ticker": "LILY34.SA",
+        "nome": "LILY34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "BCPX39",
+        "ticker": "BCPX39.SA",
+        "nome": "GLOBAL X COPPER MINERS ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "STOC34",
+        "ticker": "STOC34.SA",
+        "nome": "STOC34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GOAU3",
+        "ticker": "GOAU3.SA",
+        "nome": "METALURGICA GERDAU S.A.",
+        "tipo": "acoes",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "IGTI3",
+        "ticker": "IGTI3.SA",
+        "nome": "IGUATEMI S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "RNEW4",
+        "ticker": "RNEW4.SA",
+        "nome": "RENOVA ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "AALR3",
+        "ticker": "AALR3.SA",
+        "nome": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "WALM34",
+        "ticker": "WALM34.SA",
+        "nome": "WALM34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RIGG34",
+        "ticker": "RIGG34.SA",
+        "nome": "RIGG34",
+        "tipo": "bdrs",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BSLI3",
+        "ticker": "BSLI3.SA",
+        "nome": "BRB BCO DE BRASILIA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "W1IX34",
+        "ticker": "W1IX34.SA",
+        "nome": "W1IX34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "RCSL3",
+        "ticker": "RCSL3.SA",
+        "nome": "RECRUSUL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BMEB4",
+        "ticker": "BMEB4.SA",
+        "nome": "BCO MERCANTIL DO BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "NUTR3",
+        "ticker": "NUTR3.SA",
+        "nome": "NUTRIPLANT INDUSTRIA E COMERCIO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "BSIL39",
+        "ticker": "BSIL39.SA",
+        "nome": "GLOBAL X SILVER MINERS ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BIEU39",
+        "ticker": "BIEU39.SA",
+        "nome": "ISHARES CORE MSCI EUROPE ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BSOX39",
+        "ticker": "BSOX39.SA",
+        "nome": "ISHARES SEMICONDUCTOR ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "B2YN34",
+        "ticker": "B2YN34.SA",
+        "nome": "B2YN34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AMOB3",
+        "ticker": "AMOB3.SA",
+        "nome": "AUTOMOB PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BIVB39",
+        "ticker": "BIVB39.SA",
+        "nome": "ISHARES CORE S&P 500 ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BSLI4",
+        "ticker": "BSLI4.SA",
+        "nome": "BRB BCO DE BRASILIA S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AZUL97",
+        "ticker": "AZUL97.SA",
+        "nome": "AZUL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "S2ED34",
+        "ticker": "S2ED34.SA",
+        "nome": "S2ED34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1MT34",
+        "ticker": "A1MT34.SA",
+        "nome": "A1MT34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "WDCN3",
+        "ticker": "WDCN3.SA",
+        "nome": "WDCN3",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "C1GP34",
+        "ticker": "C1GP34.SA",
+        "nome": "C1GP34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "S2HO34",
+        "ticker": "S2HO34.SA",
+        "nome": "S2HO34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SHOW3",
+        "ticker": "SHOW3.SA",
+        "nome": "T4F ENTRETENIMENTO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BEFG39",
+        "ticker": "BEFG39.SA",
+        "nome": "ISHARES MSCI EAFE GROWTH ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ARGT39",
+        "ticker": "ARGT39.SA",
+        "nome": "GLOBAL X MSCI ARGENTINA ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "NOKI34",
+        "ticker": "NOKI34.SA",
+        "nome": "NOKI34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BEMC39",
+        "ticker": "BEMC39.SA",
+        "nome": "ISHARES MSCI EMERGING MARKETS EX CHINA ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TRAD3",
+        "ticker": "TRAD3.SA",
+        "nome": "TC S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "INEP3",
+        "ticker": "INEP3.SA",
+        "nome": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CHVX34",
+        "ticker": "CHVX34.SA",
+        "nome": "CHVX34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "DOTZ3",
+        "ticker": "DOTZ3.SA",
+        "nome": "DOTZ S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "N2ET34",
+        "ticker": "N2ET34.SA",
+        "nome": "N2ET34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "AGXY3",
+        "ticker": "AGXY3.SA",
+        "nome": "AGROGALAXY PARTICIPAÇÕES S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "PDTC3",
+        "ticker": "PDTC3.SA",
+        "nome": "PADTEC HOLDING S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "DISB34",
+        "ticker": "DISB34.SA",
+        "nome": "DISB34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AVLL3",
+        "ticker": "AVLL3.SA",
+        "nome": "ALPHAVILLE S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "EVEB31",
+        "ticker": "EVEB31.SA",
+        "nome": "EVE HOLDING. INC.",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "LOGN3",
+        "ticker": "LOGN3.SA",
+        "nome": "LOG-IN LOGISTICA INTERMODAL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "BCHQ39",
+        "ticker": "BCHQ39.SA",
+        "nome": "GLOBAL X MSCI CHINA CONSUMER DISCRETIONARY ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "S2EA34",
+        "ticker": "S2EA34.SA",
+        "nome": "S2EA34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "GSGI34",
+        "ticker": "GSGI34.SA",
+        "nome": "GSGI34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "RGTI34",
+        "ticker": "RGTI34.SA",
+        "nome": "RGTI34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "M2PM34",
+        "ticker": "M2PM34.SA",
+        "nome": "M2PM34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "N1IC34",
+        "ticker": "N1IC34.SA",
+        "nome": "N1IC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "HAGA4",
+        "ticker": "HAGA4.SA",
+        "nome": "HAGA S.A. INDUSTRIA E COMERCIO",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BAAX39",
+        "ticker": "BAAX39.SA",
+        "nome": "ISHARES MSCI ALL COUNTRY ASIA EX JAPAN ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "M1RN34",
+        "ticker": "M1RN34.SA",
+        "nome": "M1RN34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "BPAC3",
+        "ticker": "BPAC3.SA",
+        "nome": "BCO BTG PACTUAL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "P1DD34",
+        "ticker": "P1DD34.SA",
+        "nome": "P1DD34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ALUP4",
+        "ticker": "ALUP4.SA",
+        "nome": "ALUPAR INVESTIMENTO S/A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BTIP39",
+        "ticker": "BTIP39.SA",
+        "nome": "ISHARES TIPS BOND ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "WHRL4",
+        "ticker": "WHRL4.SA",
+        "nome": "WHIRLPOOL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "B2HI34",
+        "ticker": "B2HI34.SA",
+        "nome": "B2HI34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TXSA34",
+        "ticker": "TXSA34.SA",
+        "nome": "TXSA34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "SSFO34",
+        "ticker": "SSFO34.SA",
+        "nome": "SSFO34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "CSCO34",
+        "ticker": "CSCO34.SA",
+        "nome": "CSCO34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BPAC5",
+        "ticker": "BPAC5.SA",
+        "nome": "BCO BTG PACTUAL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "EQPA3",
+        "ticker": "EQPA3.SA",
+        "nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BIAU39",
+        "ticker": "BIAU39.SA",
+        "nome": "ISHARES GOLD TRUST",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BOAC34",
+        "ticker": "BOAC34.SA",
+        "nome": "BOAC34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AIRB34",
+        "ticker": "AIRB34.SA",
+        "nome": "AIRB34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "AERI3",
+        "ticker": "AERI3.SA",
+        "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BEES4",
+        "ticker": "BEES4.SA",
+        "nome": "BANESTES S.A. - BCO EST ESPIRITO SANTO",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "WEST3",
+        "ticker": "WEST3.SA",
+        "nome": "WESTWING COMERCIO VAREJISTA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BTLT39",
+        "ticker": "BTLT39.SA",
+        "nome": "ISHARES 20 YEAR TREASURY BOND ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ORLY34",
+        "ticker": "ORLY34.SA",
+        "nome": "ORLY34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "R2PD34",
+        "ticker": "R2PD34.SA",
+        "nome": "R2PD34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "SCAR3",
+        "ticker": "SCAR3.SA",
+        "nome": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BEWJ39",
+        "ticker": "BEWJ39.SA",
+        "nome": "ISHARES MSCI JAPAN ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BIEF39",
+        "ticker": "BIEF39.SA",
+        "nome": "ISHARES CORE MSCI EAFE ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "UNHH34",
+        "ticker": "UNHH34.SA",
+        "nome": "UNHH34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "FICT3",
+        "ticker": "FICT3.SA",
+        "nome": "FICTOR ALIMENTOS S.A",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "L1RC34",
+        "ticker": "L1RC34.SA",
+        "nome": "L1RC34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "V2TX34",
+        "ticker": "V2TX34.SA",
+        "nome": "V2TX34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "UNIP3",
+        "ticker": "UNIP3.SA",
+        "nome": "UNIPAR CARBOCLORO S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "P2AT34",
+        "ticker": "P2AT34.SA",
+        "nome": "P2AT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "E1CO34",
+        "ticker": "E1CO34.SA",
+        "nome": "E1CO34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "BAIQ39",
+        "ticker": "BAIQ39.SA",
+        "nome": "GLOBAL X ARTIFICIAL INTELLIGENCE & TECHNOLOGY ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEBR5",
+        "ticker": "CEBR5.SA",
+        "nome": "CIA ENERGETICA DE BRASILIA",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "PFIZ34",
+        "ticker": "PFIZ34.SA",
+        "nome": "PFIZ34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "JNJB34",
+        "ticker": "JNJB34.SA",
+        "nome": "JNJB34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "T1AM34",
+        "ticker": "T1AM34.SA",
+        "nome": "T1AM34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "D1DG34",
+        "ticker": "D1DG34.SA",
+        "nome": "D1DG34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "VISA34",
+        "ticker": "VISA34.SA",
+        "nome": "VISA34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "VSTE3",
+        "ticker": "VSTE3.SA",
+        "nome": "VESTE S.A. ESTILO",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "SNSY5",
+        "ticker": "SNSY5.SA",
+        "nome": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "Z1TS34",
+        "ticker": "Z1TS34.SA",
+        "nome": "Z1TS34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "A1RC34",
+        "ticker": "A1RC34.SA",
+        "nome": "A1RC34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ENMT3",
+        "ticker": "ENMT3.SA",
+        "nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "Z2SC34",
+        "ticker": "Z2SC34.SA",
+        "nome": "Z2SC34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "FCXO34",
+        "ticker": "FCXO34.SA",
+        "nome": "FCXO34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "W1DA34",
+        "ticker": "W1DA34.SA",
+        "nome": "W1DA34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "ALUP3",
+        "ticker": "ALUP3.SA",
+        "nome": "ALUPAR INVESTIMENTO S/A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "C2RW34",
+        "ticker": "C2RW34.SA",
+        "nome": "C2RW34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "EPAR3",
+        "ticker": "EPAR3.SA",
+        "nome": "EMBPAR PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1PP34",
+        "ticker": "A1PP34.SA",
+        "nome": "A1PP34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "Z1TA34",
+        "ticker": "Z1TA34.SA",
+        "nome": "Z1TA34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "RAPT3",
+        "ticker": "RAPT3.SA",
+        "nome": "RANDONCORP S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PINE3",
+        "ticker": "PINE3.SA",
+        "nome": "BCO PINE S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BRSR3",
+        "ticker": "BRSR3.SA",
+        "nome": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BEES3",
+        "ticker": "BEES3.SA",
+        "nome": "BANESTES S.A. - BCO EST ESPIRITO SANTO",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "E2NP34",
+        "ticker": "E2NP34.SA",
+        "nome": "E2NP34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TASA3",
+        "ticker": "TASA3.SA",
+        "nome": "TAURUS ARMAS S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "MCDC34",
+        "ticker": "MCDC34.SA",
+        "nome": "MCDC34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RVEE3",
+        "ticker": "RVEE3.SA",
+        "nome": "REVEE S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1LN34",
+        "ticker": "A1LN34.SA",
+        "nome": "A1LN34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "BIDU34",
+        "ticker": "BIDU34.SA",
+        "nome": "BIDU34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "U1BE34",
+        "ticker": "U1BE34.SA",
+        "nome": "U1BE34",
+        "tipo": "bdrs",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "MOSC34",
+        "ticker": "MOSC34.SA",
+        "nome": "MOSC34",
+        "tipo": "bdrs",
+        "setor": "agro"
+    },
+    {
+        "codigo": "GDXB39",
+        "ticker": "GDXB39.SA",
+        "nome": "VANECK GOLD MINERS ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MSCD34",
+        "ticker": "MSCD34.SA",
+        "nome": "MSCD34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "LUXM4",
+        "ticker": "LUXM4.SA",
+        "nome": "TREVISA INVESTIMENTOS S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "AALL34",
+        "ticker": "AALL34.SA",
+        "nome": "AALL34",
+        "tipo": "bdrs",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "R2BL34",
+        "ticker": "R2BL34.SA",
+        "nome": "R2BL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "S1BS34",
+        "ticker": "S1BS34.SA",
+        "nome": "S1BS34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "EALT4",
+        "ticker": "EALT4.SA",
+        "nome": "ELECTRO ACO ALTONA S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CGRA4",
+        "ticker": "CGRA4.SA",
+        "nome": "GRAZZIOTIN S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "C1PR34",
+        "ticker": "C1PR34.SA",
+        "nome": "C1PR34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "XRXB34",
+        "ticker": "XRXB34.SA",
+        "nome": "XRXB34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "MNPR3",
+        "ticker": "MNPR3.SA",
+        "nome": "MINUPAR PARTICIPACOES S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "CBEE3",
+        "ticker": "CBEE3.SA",
+        "nome": "AMPLA ENERGIA E SERVICOS S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BMEB3",
+        "ticker": "BMEB3.SA",
+        "nome": "BCO MERCANTIL DO BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "WUNI34",
+        "ticker": "WUNI34.SA",
+        "nome": "WUNI34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ENGI4",
+        "ticker": "ENGI4.SA",
+        "nome": "ENERGISA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BEUW39",
+        "ticker": "BEUW39.SA",
+        "nome": "ISHARES MSCI USA EQUAL WEIGHTED ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "RSUL4",
+        "ticker": "RSUL4.SA",
+        "nome": "METALURGICA RIOSULENSE S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "D1EL34",
+        "ticker": "D1EL34.SA",
+        "nome": "D1EL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TMCO34",
+        "ticker": "TMCO34.SA",
+        "nome": "TMCO34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEDO4",
+        "ticker": "CEDO4.SA",
+        "nome": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "INEP4",
+        "ticker": "INEP4.SA",
+        "nome": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "B2AP34",
+        "ticker": "B2AP34.SA",
+        "nome": "B2AP34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MSBR34",
+        "ticker": "MSBR34.SA",
+        "nome": "MSBR34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ALPA3",
+        "ticker": "ALPA3.SA",
+        "nome": "ALPARGATAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ETHA39",
+        "ticker": "ETHA39.SA",
+        "nome": "ISHARES ETHEREUM TRUST ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BGIP3",
+        "ticker": "BGIP3.SA",
+        "nome": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "ATED3",
+        "ticker": "ATED3.SA",
+        "nome": "ATOM EDUCAÇÃO E EDITORA S.A.",
+        "tipo": "acoes",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "G1LO34",
+        "ticker": "G1LO34.SA",
+        "nome": "G1LO34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "CLOV34",
+        "ticker": "CLOV34.SA",
+        "nome": "CLOV34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "C1CJ34",
+        "ticker": "C1CJ34.SA",
+        "nome": "C1CJ34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "HOOT4",
+        "ticker": "HOOT4.SA",
+        "nome": "HOTEIS OTHON S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CATP34",
+        "ticker": "CATP34.SA",
+        "nome": "CATP34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "LBRD34",
+        "ticker": "LBRD34.SA",
+        "nome": "LBRD34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1NE34",
+        "ticker": "A1NE34.SA",
+        "nome": "A1NE34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "VERZ34",
+        "ticker": "VERZ34.SA",
+        "nome": "VERZ34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEBR3",
+        "ticker": "CEBR3.SA",
+        "nome": "CIA ENERGETICA DE BRASILIA",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "BOEF39",
+        "ticker": "BOEF39.SA",
+        "nome": "ISHARES S&P 100 ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "PDGR3",
+        "ticker": "PDGR3.SA",
+        "nome": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+        "tipo": "acoes",
+        "setor": "financas"
+    },
+    {
+        "codigo": "BAOA39",
+        "ticker": "BAOA39.SA",
+        "nome": "ISHARES CORE 80/20 AGGRESSIVE ALLOCATION ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "EMAE4",
+        "ticker": "EMAE4.SA",
+        "nome": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "CTGP34",
+        "ticker": "CTGP34.SA",
+        "nome": "CTGP34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "GROP31",
+        "ticker": "GROP31.SA",
+        "nome": "BRAZIL POTASH CORP.",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "ENMT4",
+        "ticker": "ENMT4.SA",
+        "nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "COLG34",
+        "ticker": "COLG34.SA",
+        "nome": "COLG34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BOTZ39",
+        "ticker": "BOTZ39.SA",
+        "nome": "GLOBAL X ROBOTICS & ARTIFICIAL INTELLIGENCE ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "JDCO34",
+        "ticker": "JDCO34.SA",
+        "nome": "JDCO34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1LB34",
+        "ticker": "A1LB34.SA",
+        "nome": "A1LB34",
+        "tipo": "bdrs",
+        "setor": "agro"
+    },
+    {
+        "codigo": "CGRA3",
+        "ticker": "CGRA3.SA",
+        "nome": "GRAZZIOTIN S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEBR6",
+        "ticker": "CEBR6.SA",
+        "nome": "CIA ENERGETICA DE BRASILIA",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "D1OW34",
+        "ticker": "D1OW34.SA",
+        "nome": "D1OW34",
+        "tipo": "bdrs",
+        "setor": "agro"
+    },
+    {
+        "codigo": "QUBT34",
+        "ticker": "QUBT34.SA",
+        "nome": "QUBT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "OFSA3",
+        "ticker": "OFSA3.SA",
+        "nome": "OUROFINO S.A.",
+        "tipo": "acoes",
+        "setor": "saude"
+    },
+    {
+        "codigo": "CHCM34",
+        "ticker": "CHCM34.SA",
+        "nome": "CHCM34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "B1PP34",
+        "ticker": "B1PP34.SA",
+        "nome": "B1PP34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "B1IL34",
+        "ticker": "B1IL34.SA",
+        "nome": "B1IL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "DTCY3",
+        "ticker": "DTCY3.SA",
+        "nome": "DTCOM - DIRECT TO COMPANY S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BEPP39",
+        "ticker": "BEPP39.SA",
+        "nome": "ISHARES MSCI PACIFIC EX JAPAN ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "MGEL4",
+        "ticker": "MGEL4.SA",
+        "nome": "MANGELS INDUSTRIAL S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ISAE3",
+        "ticker": "ISAE3.SA",
+        "nome": "ISA ENERGIA BRASIL S.A",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "A1KA34",
+        "ticker": "A1KA34.SA",
+        "nome": "A1KA34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "T2ER34",
+        "ticker": "T2ER34.SA",
+        "nome": "T2ER34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "TELB4",
+        "ticker": "TELB4.SA",
+        "nome": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "OIBR4",
+        "ticker": "OIBR4.SA",
+        "nome": "OI S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "TBIL39",
+        "ticker": "TBIL39.SA",
+        "nome": "GLOBAL X 1-3 MONTH T-BILL ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "V1RT34",
+        "ticker": "V1RT34.SA",
+        "nome": "V1RT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "V1ST34",
+        "ticker": "V1ST34.SA",
+        "nome": "V1ST34",
+        "tipo": "bdrs",
+        "setor": "infra"
+    },
+    {
+        "codigo": "T2YL34",
+        "ticker": "T2YL34.SA",
+        "nome": "T2YL34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BIED3",
+        "ticker": "BIED3.SA",
+        "nome": "BIOMA EDUCAÇÃO S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "ENGI3",
+        "ticker": "ENGI3.SA",
+        "nome": "ENERGISA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "GOGL35",
+        "ticker": "GOGL35.SA",
+        "nome": "GOGL35",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "A2RR34",
+        "ticker": "A2RR34.SA",
+        "nome": "A2RR34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "Z2IT34",
+        "ticker": "Z2IT34.SA",
+        "nome": "Z2IT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "A1IV34",
+        "ticker": "A1IV34.SA",
+        "nome": "A1IV34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "S2MP34",
+        "ticker": "S2MP34.SA",
+        "nome": "S2MP34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "C1NS34",
+        "ticker": "C1NS34.SA",
+        "nome": "C1NS34",
+        "tipo": "bdrs",
+        "setor": "agro"
+    },
+    {
+        "codigo": "BGOV39",
+        "ticker": "BGOV39.SA",
+        "nome": "ISHARES US TREASURY BOND ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BIEI39",
+        "ticker": "BIEI39.SA",
+        "nome": "ISHARES 3-7 YEAR TREASURY BOND ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CRPG5",
+        "ticker": "CRPG5.SA",
+        "nome": "TRONOX PIGMENTOS DO BRASIL S.A.",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "E2AG34",
+        "ticker": "E2AG34.SA",
+        "nome": "E2AG34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "PRXB31",
+        "ticker": "PRXB31.SA",
+        "nome": "PROSUS N.V.",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "C1AB34",
+        "ticker": "C1AB34.SA",
+        "nome": "C1AB34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BIEM39",
+        "ticker": "BIEM39.SA",
+        "nome": "ISHARES CORE MSCI EMERGING MARKETS ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "NORD3",
+        "ticker": "NORD3.SA",
+        "nome": "NORDON INDUSTRIAS METALURGICAS S.A.",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEDO3",
+        "ticker": "CEDO3.SA",
+        "nome": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+        "tipo": "acoes",
+        "setor": "agro"
+    },
+    {
+        "codigo": "PGCO34",
+        "ticker": "PGCO34.SA",
+        "nome": "PGCO34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "U2ST34",
+        "ticker": "U2ST34.SA",
+        "nome": "U2ST34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "OXYP34",
+        "ticker": "OXYP34.SA",
+        "nome": "OXYP34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "K2RC34",
+        "ticker": "K2RC34.SA",
+        "nome": "K2RC34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "RIOT34",
+        "ticker": "RIOT34.SA",
+        "nome": "RIOT34",
+        "tipo": "bdrs",
+        "setor": "mineracao"
+    },
+    {
+        "codigo": "BILB34",
+        "ticker": "BILB34.SA",
+        "nome": "BILB34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "MRCK34",
+        "ticker": "MRCK34.SA",
+        "nome": "MRCK34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "JEPI39",
+        "ticker": "JEPI39.SA",
+        "nome": "JPMORGAN EQUITY PREMIUM INCOME ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "BMIL39",
+        "ticker": "BMIL39.SA",
+        "nome": "GLOBAL X MILLENNIAL CONSUMER ETF",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "N1CL34",
+        "ticker": "N1CL34.SA",
+        "nome": "N1CL34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "DHER34",
+        "ticker": "DHER34.SA",
+        "nome": "DHER34",
+        "tipo": "bdrs",
+        "setor": "saude"
+    },
+    {
+        "codigo": "A1PO34",
+        "ticker": "A1PO34.SA",
+        "nome": "A1PO34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "AZUL99",
+        "ticker": "AZUL99.SA",
+        "nome": "AZUL S.A.",
+        "tipo": "acoes",
+        "setor": "logistica"
+    },
+    {
+        "codigo": "CLSC4",
+        "ticker": "CLSC4.SA",
+        "nome": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "U2PS34",
+        "ticker": "U2PS34.SA",
+        "nome": "U2PS34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "RYTT34",
+        "ticker": "RYTT34.SA",
+        "nome": "RYTT34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "COPH34",
+        "ticker": "COPH34.SA",
+        "nome": "COPH34",
+        "tipo": "bdrs",
+        "setor": "petroleo"
+    },
+    {
+        "codigo": "F1TN34",
+        "ticker": "F1TN34.SA",
+        "nome": "F1TN34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "M1KC34",
+        "ticker": "M1KC34.SA",
+        "nome": "M1KC34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "C2CA34",
+        "ticker": "C2CA34.SA",
+        "nome": "C2CA34",
+        "tipo": "bdrs",
+        "setor": "outros"
+    },
+    {
+        "codigo": "CEEB3",
+        "ticker": "CEEB3.SA",
+        "nome": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+        "tipo": "acoes",
+        "setor": "infra"
+    },
+    {
+        "codigo": "HAGA3",
+        "ticker": "HAGA3.SA",
+        "nome": "HAGA S.A. INDUSTRIA E COMERCIO",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "A1LL34",
+        "ticker": "A1LL34.SA",
+        "nome": "A1LL34",
+        "tipo": "bdrs",
+        "setor": "financas"
+    },
+    {
+        "codigo": "TELB3",
+        "ticker": "TELB3.SA",
+        "nome": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "tipo": "acoes",
+        "setor": "outros"
+    },
+    {
+        "codigo": "I1QY34",
+        "ticker": "I1QY34.SA",
+        "nome": "I1QY34",
+        "tipo": "bdrs",
+        "setor": "tecnologia"
+    },
+    {
+        "codigo": "BPAC11",
+        "ticker": "BPAC11.SA",
+        "nome": "BCO BTG PACTUAL S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GOLD11",
+        "ticker": "GOLD11.SA",
+        "nome": "GOLD11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SMAL11",
+        "ticker": "SMAL11.SA",
+        "nome": "SMAL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IGTI11",
+        "ticker": "IGTI11.SA",
+        "nome": "IGUATEMI S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KLBN11",
+        "ticker": "KLBN11.SA",
+        "nome": "KLABIN S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SANB11",
+        "ticker": "SANB11.SA",
+        "nome": "BCO SANTANDER (BRASIL) S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BOVA11",
+        "ticker": "BOVA11.SA",
+        "nome": "BOVA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FNAM11",
+        "ticker": "FNAM11.SA",
+        "nome": "FNAM11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ENGI11",
+        "ticker": "ENGI11.SA",
+        "nome": "ENERGISA S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GARE11",
+        "ticker": "GARE11.SA",
+        "nome": "GARE11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SAPR11",
+        "ticker": "SAPR11.SA",
+        "nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GGRC11",
+        "ticker": "GGRC11.SA",
+        "nome": "GGRC11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TAEE11",
+        "ticker": "TAEE11.SA",
+        "nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "MXRF11",
+        "ticker": "MXRF11.SA",
+        "nome": "MXRF11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "CPTS11",
+        "ticker": "CPTS11.SA",
+        "nome": "CPTS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SNEL11",
+        "ticker": "SNEL11.SA",
+        "nome": "SNEL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LFIX11",
+        "ticker": "LFIX11.SA",
+        "nome": "LFIX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NASD11",
+        "ticker": "NASD11.SA",
+        "nome": "NASD11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GOLX11",
+        "ticker": "GOLX11.SA",
+        "nome": "GOLX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ALUP11",
+        "ticker": "ALUP11.SA",
+        "nome": "ALUPAR INVESTIMENTO S/A",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SPXU11",
+        "ticker": "SPXU11.SA",
+        "nome": "SPXU11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BBOV11",
+        "ticker": "BBOV11.SA",
+        "nome": "BBOV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RURA11",
+        "ticker": "RURA11.SA",
+        "nome": "RURA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "SNAG11",
+        "ticker": "SNAG11.SA",
+        "nome": "SNAG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BTCI11",
+        "ticker": "BTCI11.SA",
+        "nome": "BTCI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BTHF11",
+        "ticker": "BTHF11.SA",
+        "nome": "BTHF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TEPP11",
+        "ticker": "TEPP11.SA",
+        "nome": "TEPP11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Lajes Corporativas"
+    },
+    {
+        "codigo": "VGHF11",
+        "ticker": "VGHF11.SA",
+        "nome": "VGHF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "USAL11",
+        "ticker": "USAL11.SA",
+        "nome": "USAL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VGIR11",
+        "ticker": "VGIR11.SA",
+        "nome": "VGIR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KNSC11",
+        "ticker": "KNSC11.SA",
+        "nome": "KNSC11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HASH11",
+        "ticker": "HASH11.SA",
+        "nome": "HASH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BOVV11",
+        "ticker": "BOVV11.SA",
+        "nome": "BOVV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LFTB11",
+        "ticker": "LFTB11.SA",
+        "nome": "LFTB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DEBB11",
+        "ticker": "DEBB11.SA",
+        "nome": "DEBB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ALZR11",
+        "ticker": "ALZR11.SA",
+        "nome": "ALZR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BRBI11",
+        "ticker": "BRBI11.SA",
+        "nome": "BRBI BR PARTNERS S.A.",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BOVX11",
+        "ticker": "BOVX11.SA",
+        "nome": "BOVX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IBOB11",
+        "ticker": "IBOB11.SA",
+        "nome": "IBOB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBRX11",
+        "ticker": "RBRX11.SA",
+        "nome": "RBRX11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TGAR11",
+        "ticker": "TGAR11.SA",
+        "nome": "TGAR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TRXF11",
+        "ticker": "TRXF11.SA",
+        "nome": "TRXF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HFOF11",
+        "ticker": "HFOF11.SA",
+        "nome": "HFOF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "FNOR11",
+        "ticker": "FNOR11.SA",
+        "nome": "FNOR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ETHE11",
+        "ticker": "ETHE11.SA",
+        "nome": "ETHE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RZAG11",
+        "ticker": "RZAG11.SA",
+        "nome": "RZAG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "CHIP11",
+        "ticker": "CHIP11.SA",
+        "nome": "CHIP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "JSAF11",
+        "ticker": "JSAF11.SA",
+        "nome": "JSAF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KNCR11",
+        "ticker": "KNCR11.SA",
+        "nome": "KNCR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "VIUR11",
+        "ticker": "VIUR11.SA",
+        "nome": "VIUR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "MCRE11",
+        "ticker": "MCRE11.SA",
+        "nome": "MCRE11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "DOLA11",
+        "ticker": "DOLA11.SA",
+        "nome": "DOLA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SPXR11",
+        "ticker": "SPXR11.SA",
+        "nome": "SPXR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TECK11",
+        "ticker": "TECK11.SA",
+        "nome": "TECK11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "QBTC11",
+        "ticker": "QBTC11.SA",
+        "nome": "QBTC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "QSOL11",
+        "ticker": "QSOL11.SA",
+        "nome": "QSOL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BITH11",
+        "ticker": "BITH11.SA",
+        "nome": "BITH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VGIA11",
+        "ticker": "VGIA11.SA",
+        "nome": "VGIA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "B5P211",
+        "ticker": "B5P211.SA",
+        "nome": "B5P211",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IVVB11",
+        "ticker": "IVVB11.SA",
+        "nome": "IVVB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BBIG11",
+        "ticker": "BBIG11.SA",
+        "nome": "BBIG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "CPSH11",
+        "ticker": "CPSH11.SA",
+        "nome": "CPSH11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "XPML11",
+        "ticker": "XPML11.SA",
+        "nome": "XPML11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "RBVA11",
+        "ticker": "RBVA11.SA",
+        "nome": "RBVA11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Varejo"
+    },
+    {
+        "codigo": "VXXV11",
+        "ticker": "VXXV11.SA",
+        "nome": "VXXV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HGBS11",
+        "ticker": "HGBS11.SA",
+        "nome": "HGBS11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "LTBX11",
+        "ticker": "LTBX11.SA",
+        "nome": "LTBX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "EMET11",
+        "ticker": "EMET11.SA",
+        "nome": "EMET11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "GPCA11",
+        "ticker": "GPCA11.SA",
+        "nome": "GPCA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IRFM11",
+        "ticker": "IRFM11.SA",
+        "nome": "IRFM11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ARGE11",
+        "ticker": "ARGE11.SA",
+        "nome": "ARGE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HGLG11",
+        "ticker": "HGLG11.SA",
+        "nome": "HGLG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SPXI11",
+        "ticker": "SPXI11.SA",
+        "nome": "SPXI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XINA11",
+        "ticker": "XINA11.SA",
+        "nome": "XINA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "COIN11",
+        "ticker": "COIN11.SA",
+        "nome": "COIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VISC11",
+        "ticker": "VISC11.SA",
+        "nome": "VISC11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "MANA11",
+        "ticker": "MANA11.SA",
+        "nome": "MANA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BTLG11",
+        "ticker": "BTLG11.SA",
+        "nome": "BTLG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "VGRI11",
+        "ticker": "VGRI11.SA",
+        "nome": "VGRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "JURO11",
+        "ticker": "JURO11.SA",
+        "nome": "JURO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VINO11",
+        "ticker": "VINO11.SA",
+        "nome": "VINO11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "LFTS11",
+        "ticker": "LFTS11.SA",
+        "nome": "LFTS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BODB11",
+        "ticker": "BODB11.SA",
+        "nome": "BODB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FGAA11",
+        "ticker": "FGAA11.SA",
+        "nome": "FGAA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XPCA11",
+        "ticker": "XPCA11.SA",
+        "nome": "XPCA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SOLH11",
+        "ticker": "SOLH11.SA",
+        "nome": "SOLH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ACWI11",
+        "ticker": "ACWI11.SA",
+        "nome": "ACWI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HSML11",
+        "ticker": "HSML11.SA",
+        "nome": "HSML11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "SPYI11",
+        "ticker": "SPYI11.SA",
+        "nome": "SPYI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AGRX11",
+        "ticker": "AGRX11.SA",
+        "nome": "AGRX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "MARG11",
+        "ticker": "MARG11.SA",
+        "nome": "MARG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PACB11",
+        "ticker": "PACB11.SA",
+        "nome": "PACB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XPSF11",
+        "ticker": "XPSF11.SA",
+        "nome": "XPSF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DEVA11",
+        "ticker": "DEVA11.SA",
+        "nome": "DEVA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HREC11",
+        "ticker": "HREC11.SA",
+        "nome": "HREC11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "CDII11",
+        "ticker": "CDII11.SA",
+        "nome": "CDII11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ARRI11",
+        "ticker": "ARRI11.SA",
+        "nome": "ARRI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "XPLG11",
+        "ticker": "XPLG11.SA",
+        "nome": "XPLG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "POSB11",
+        "ticker": "POSB11.SA",
+        "nome": "POSB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FSRF11",
+        "ticker": "FSRF11.SA",
+        "nome": "FSRF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBRY11",
+        "ticker": "RBRY11.SA",
+        "nome": "RBRY11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "UTEC11",
+        "ticker": "UTEC11.SA",
+        "nome": "UTEC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LIFE11",
+        "ticker": "LIFE11.SA",
+        "nome": "LIFE11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Residencial"
+    },
+    {
+        "codigo": "BRCO11",
+        "ticker": "BRCO11.SA",
+        "nome": "BRCO11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "ELAS11",
+        "ticker": "ELAS11.SA",
+        "nome": "ELAS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BISE11",
+        "ticker": "BISE11.SA",
+        "nome": "BISE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KNRI11",
+        "ticker": "KNRI11.SA",
+        "nome": "KNRI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HGRU11",
+        "ticker": "HGRU11.SA",
+        "nome": "HGRU11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KISU11",
+        "ticker": "KISU11.SA",
+        "nome": "KISU11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "QETH11",
+        "ticker": "QETH11.SA",
+        "nome": "QETH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KNIP11",
+        "ticker": "KNIP11.SA",
+        "nome": "KNIP11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "IMAB11",
+        "ticker": "IMAB11.SA",
+        "nome": "IMAB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HDOF11",
+        "ticker": "HDOF11.SA",
+        "nome": "HDOF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DIVO11",
+        "ticker": "DIVO11.SA",
+        "nome": "DIVO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VSLH11",
+        "ticker": "VSLH11.SA",
+        "nome": "VSLH11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "JSRE11",
+        "ticker": "JSRE11.SA",
+        "nome": "JSRE11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "IDKA11",
+        "ticker": "IDKA11.SA",
+        "nome": "IDKA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CACR11",
+        "ticker": "CACR11.SA",
+        "nome": "CACR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "RECR11",
+        "ticker": "RECR11.SA",
+        "nome": "RECR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "AUPO11",
+        "ticker": "AUPO11.SA",
+        "nome": "AUPO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "EGAF11",
+        "ticker": "EGAF11.SA",
+        "nome": "EGAF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "HCTR11",
+        "ticker": "HCTR11.SA",
+        "nome": "HCTR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "ISEN11",
+        "ticker": "ISEN11.SA",
+        "nome": "ISEN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "QQQI11",
+        "ticker": "QQQI11.SA",
+        "nome": "QQQI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CYCR11",
+        "ticker": "CYCR11.SA",
+        "nome": "CYCR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PFIN11",
+        "ticker": "PFIN11.SA",
+        "nome": "PFIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AAZQ11",
+        "ticker": "AAZQ11.SA",
+        "nome": "AAZQ11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PVBI11",
+        "ticker": "PVBI11.SA",
+        "nome": "PVBI11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "MCCI11",
+        "ticker": "MCCI11.SA",
+        "nome": "MCCI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KNUQ11",
+        "ticker": "KNUQ11.SA",
+        "nome": "KNUQ11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "CCME11",
+        "ticker": "CCME11.SA",
+        "nome": "CCME11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "WRLD11",
+        "ticker": "WRLD11.SA",
+        "nome": "WRLD11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KNHF11",
+        "ticker": "KNHF11.SA",
+        "nome": "KNHF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "PORD11",
+        "ticker": "PORD11.SA",
+        "nome": "PORD11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "IAAG11",
+        "ticker": "IAAG11.SA",
+        "nome": "IAAG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CPTI11",
+        "ticker": "CPTI11.SA",
+        "nome": "CPTI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XFIX11",
+        "ticker": "XFIX11.SA",
+        "nome": "XFIX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RZTR11",
+        "ticker": "RZTR11.SA",
+        "nome": "RZTR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SAPI11",
+        "ticker": "SAPI11.SA",
+        "nome": "SAPI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "VILG11",
+        "ticker": "VILG11.SA",
+        "nome": "VILG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "OIAG11",
+        "ticker": "OIAG11.SA",
+        "nome": "OIAG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HODL11",
+        "ticker": "HODL11.SA",
+        "nome": "HODL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IRIM11",
+        "ticker": "IRIM11.SA",
+        "nome": "IRIM11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "RBRR11",
+        "ticker": "RBRR11.SA",
+        "nome": "RBRR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KCRE11",
+        "ticker": "KCRE11.SA",
+        "nome": "KCRE11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SPXS11",
+        "ticker": "SPXS11.SA",
+        "nome": "SPXS11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "MFII11",
+        "ticker": "MFII11.SA",
+        "nome": "MFII11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "RBIR11",
+        "ticker": "RBIR11.SA",
+        "nome": "RBIR11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Residencial"
+    },
+    {
+        "codigo": "VCJR11",
+        "ticker": "VCJR11.SA",
+        "nome": "VCJR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PMLL11",
+        "ticker": "PMLL11.SA",
+        "nome": "PMLL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "KNCA11",
+        "ticker": "KNCA11.SA",
+        "nome": "KNCA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "SNME11",
+        "ticker": "SNME11.SA",
+        "nome": "SNME11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "OXRL11",
+        "ticker": "OXRL11.SA",
+        "nome": "OXRL11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "MCLO11",
+        "ticker": "MCLO11.SA",
+        "nome": "MCLO11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "ITRI11",
+        "ticker": "ITRI11.SA",
+        "nome": "ITRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IFRA11",
+        "ticker": "IFRA11.SA",
+        "nome": "IFRA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LVBI11",
+        "ticker": "LVBI11.SA",
+        "nome": "LVBI11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "GRUL11",
+        "ticker": "GRUL11.SA",
+        "nome": "GRUL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "EWBZ11",
+        "ticker": "EWBZ11.SA",
+        "nome": "EWBZ11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PSEC11",
+        "ticker": "PSEC11.SA",
+        "nome": "PSEC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FATN11",
+        "ticker": "FATN11.SA",
+        "nome": "FATN11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KNHY11",
+        "ticker": "KNHY11.SA",
+        "nome": "KNHY11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BDIF11",
+        "ticker": "BDIF11.SA",
+        "nome": "BDIF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "OUJP11",
+        "ticker": "OUJP11.SA",
+        "nome": "OUJP11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SNFZ11",
+        "ticker": "SNFZ11.SA",
+        "nome": "SNFZ11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "IBOV11",
+        "ticker": "IBOV11.SA",
+        "nome": "IBOV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DVER11",
+        "ticker": "DVER11.SA",
+        "nome": "DVER11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KORE11",
+        "ticker": "KORE11.SA",
+        "nome": "KORE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NLFA11",
+        "ticker": "NLFA11.SA",
+        "nome": "NLFA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KDIF11",
+        "ticker": "KDIF11.SA",
+        "nome": "KDIF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BRCR11",
+        "ticker": "BRCR11.SA",
+        "nome": "BRCR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "RBHG11",
+        "ticker": "RBHG11.SA",
+        "nome": "RBHG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "WHGR11",
+        "ticker": "WHGR11.SA",
+        "nome": "WHGR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KFOF11",
+        "ticker": "KFOF11.SA",
+        "nome": "KFOF11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "URPR11",
+        "ticker": "URPR11.SA",
+        "nome": "URPR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "MATB11",
+        "ticker": "MATB11.SA",
+        "nome": "MATB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VRTA11",
+        "ticker": "VRTA11.SA",
+        "nome": "VRTA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XPIE11",
+        "ticker": "XPIE11.SA",
+        "nome": "XPIE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TRBL11",
+        "ticker": "TRBL11.SA",
+        "nome": "TRBL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "TORD11",
+        "ticker": "TORD11.SA",
+        "nome": "TORD11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "ALZC11",
+        "ticker": "ALZC11.SA",
+        "nome": "ALZC11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "GLDX11",
+        "ticker": "GLDX11.SA",
+        "nome": "GLDX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XETH11",
+        "ticker": "XETH11.SA",
+        "nome": "XETH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DIVS11",
+        "ticker": "DIVS11.SA",
+        "nome": "DIVS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CRPT11",
+        "ticker": "CRPT11.SA",
+        "nome": "CRPT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PCIP11",
+        "ticker": "PCIP11.SA",
+        "nome": "PCIP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BITI11",
+        "ticker": "BITI11.SA",
+        "nome": "BITI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HGCR11",
+        "ticker": "HGCR11.SA",
+        "nome": "HGCR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GAME11",
+        "ticker": "GAME11.SA",
+        "nome": "GAME11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DVFF11",
+        "ticker": "DVFF11.SA",
+        "nome": "DVFF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RIFF11",
+        "ticker": "RIFF11.SA",
+        "nome": "RIFF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBFM11",
+        "ticker": "RBFM11.SA",
+        "nome": "RBFM11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IBBP11",
+        "ticker": "IBBP11.SA",
+        "nome": "IBBP11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "SPXB11",
+        "ticker": "SPXB11.SA",
+        "nome": "SPXB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IFRI11",
+        "ticker": "IFRI11.SA",
+        "nome": "IFRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AZPL11",
+        "ticker": "AZPL11.SA",
+        "nome": "AZPL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "CPLG11",
+        "ticker": "CPLG11.SA",
+        "nome": "CPLG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "AJFI11",
+        "ticker": "AJFI11.SA",
+        "nome": "AJFI11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "CPTR11",
+        "ticker": "CPTR11.SA",
+        "nome": "CPTR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RZAK11",
+        "ticker": "RZAK11.SA",
+        "nome": "RZAK11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "XBIT11",
+        "ticker": "XBIT11.SA",
+        "nome": "XBIT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RECM11",
+        "ticker": "RECM11.SA",
+        "nome": "RECM11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TVRI11",
+        "ticker": "TVRI11.SA",
+        "nome": "TVRI11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "CPOF11",
+        "ticker": "CPOF11.SA",
+        "nome": "CPOF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CNES11",
+        "ticker": "CNES11.SA",
+        "nome": "CNES11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "BOVB11",
+        "ticker": "BOVB11.SA",
+        "nome": "BOVB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HABT11",
+        "ticker": "HABT11.SA",
+        "nome": "HABT11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "UTLL11",
+        "ticker": "UTLL11.SA",
+        "nome": "UTLL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XRPH11",
+        "ticker": "XRPH11.SA",
+        "nome": "XRPH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TMPS11",
+        "ticker": "TMPS11.SA",
+        "nome": "TMPS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PMIS11",
+        "ticker": "PMIS11.SA",
+        "nome": "PMIS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VGIP11",
+        "ticker": "VGIP11.SA",
+        "nome": "VGIP11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "KNDI11",
+        "ticker": "KNDI11.SA",
+        "nome": "KNDI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DOLX11",
+        "ticker": "DOLX11.SA",
+        "nome": "DOLX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BODI11",
+        "ticker": "BODI11.SA",
+        "nome": "BODI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BBGO11",
+        "ticker": "BBGO11.SA",
+        "nome": "BBGO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBRP11",
+        "ticker": "RBRP11.SA",
+        "nome": "RBRP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IB5M11",
+        "ticker": "IB5M11.SA",
+        "nome": "IB5M11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HGRE11",
+        "ticker": "HGRE11.SA",
+        "nome": "HGRE11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "RECT11",
+        "ticker": "RECT11.SA",
+        "nome": "RECT11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HYBR11",
+        "ticker": "HYBR11.SA",
+        "nome": "HYBR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IMBB11",
+        "ticker": "IMBB11.SA",
+        "nome": "IMBB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ICRI11",
+        "ticker": "ICRI11.SA",
+        "nome": "ICRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ETHY11",
+        "ticker": "ETHY11.SA",
+        "nome": "ETHY11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XPCI11",
+        "ticker": "XPCI11.SA",
+        "nome": "XPCI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBHY11",
+        "ticker": "RBHY11.SA",
+        "nome": "RBHY11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LVOL11",
+        "ticker": "LVOL11.SA",
+        "nome": "LVOL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VRTM11",
+        "ticker": "VRTM11.SA",
+        "nome": "VRTM11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "COPN11",
+        "ticker": "COPN11.SA",
+        "nome": "COPN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GZIT11",
+        "ticker": "GZIT11.SA",
+        "nome": "GZIT11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "HIGH11",
+        "ticker": "HIGH11.SA",
+        "nome": "HIGH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "JSCR11",
+        "ticker": "JSCR11.SA",
+        "nome": "JSCR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "VCRI11",
+        "ticker": "VCRI11.SA",
+        "nome": "VCRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "USTK11",
+        "ticker": "USTK11.SA",
+        "nome": "USTK11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GTWR11",
+        "ticker": "GTWR11.SA",
+        "nome": "GTWR11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "LFIN11",
+        "ticker": "LFIN11.SA",
+        "nome": "LFIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ISET11",
+        "ticker": "ISET11.SA",
+        "nome": "ISET11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SPXH11",
+        "ticker": "SPXH11.SA",
+        "nome": "SPXH11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "JMBI11",
+        "ticker": "JMBI11.SA",
+        "nome": "JMBI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TOPP11",
+        "ticker": "TOPP11.SA",
+        "nome": "TOPP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CAPE11",
+        "ticker": "CAPE11.SA",
+        "nome": "CAPE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BRAX11",
+        "ticker": "BRAX11.SA",
+        "nome": "BRAX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FYTO11",
+        "ticker": "FYTO11.SA",
+        "nome": "FYTO11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "VIGT11",
+        "ticker": "VIGT11.SA",
+        "nome": "VIGT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SNCI11",
+        "ticker": "SNCI11.SA",
+        "nome": "SNCI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GBTC11",
+        "ticker": "GBTC11.SA",
+        "nome": "GBTC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DIVD11",
+        "ticker": "DIVD11.SA",
+        "nome": "DIVD11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LFTX11",
+        "ticker": "LFTX11.SA",
+        "nome": "LFTX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HSAF11",
+        "ticker": "HSAF11.SA",
+        "nome": "HSAF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AROA11",
+        "ticker": "AROA11.SA",
+        "nome": "AROA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "FIXA11",
+        "ticker": "FIXA11.SA",
+        "nome": "FIXA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CAUT11",
+        "ticker": "CAUT11.SA",
+        "nome": "CAUT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BBFO11",
+        "ticker": "BBFO11.SA",
+        "nome": "BBFO11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BPML11",
+        "ticker": "BPML11.SA",
+        "nome": "BPML11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BCRI11",
+        "ticker": "BCRI11.SA",
+        "nome": "BCRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XPIN11",
+        "ticker": "XPIN11.SA",
+        "nome": "XPIN11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "RPRI11",
+        "ticker": "RPRI11.SA",
+        "nome": "RPRI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CLIN11",
+        "ticker": "CLIN11.SA",
+        "nome": "CLIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBRL11",
+        "ticker": "RBRL11.SA",
+        "nome": "RBRL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "QLBR11",
+        "ticker": "QLBR11.SA",
+        "nome": "QLBR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TRIG11",
+        "ticker": "TRIG11.SA",
+        "nome": "TRIG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BEST11",
+        "ticker": "BEST11.SA",
+        "nome": "BEST11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BLFT11",
+        "ticker": "BLFT11.SA",
+        "nome": "BLFT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GICP11",
+        "ticker": "GICP11.SA",
+        "nome": "GICP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ZAVI11",
+        "ticker": "ZAVI11.SA",
+        "nome": "ZAVI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "AUVP11",
+        "ticker": "AUVP11.SA",
+        "nome": "AUVP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "5PRE11",
+        "ticker": "5PRE11.SA",
+        "nome": "5PRE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AURO11",
+        "ticker": "AURO11.SA",
+        "nome": "AURO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CORN11",
+        "ticker": "CORN11.SA",
+        "nome": "CORN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DCRA11",
+        "ticker": "DCRA11.SA",
+        "nome": "DCRA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AIEC11",
+        "ticker": "AIEC11.SA",
+        "nome": "AIEC11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "VINF11",
+        "ticker": "VINF11.SA",
+        "nome": "VINF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GOLB11",
+        "ticker": "GOLB11.SA",
+        "nome": "GOLB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XBCI11",
+        "ticker": "XBCI11.SA",
+        "nome": "XBCI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HGBR11",
+        "ticker": "HGBR11.SA",
+        "nome": "HGBR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GLFT11",
+        "ticker": "GLFT11.SA",
+        "nome": "GLFT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ALUG11",
+        "ticker": "ALUG11.SA",
+        "nome": "ALUG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CMDB11",
+        "ticker": "CMDB11.SA",
+        "nome": "CMDB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NTNS11",
+        "ticker": "NTNS11.SA",
+        "nome": "NTNS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GCRI11",
+        "ticker": "GCRI11.SA",
+        "nome": "GCRI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "EQIR11",
+        "ticker": "EQIR11.SA",
+        "nome": "EQIR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "ISNT11",
+        "ticker": "ISNT11.SA",
+        "nome": "ISNT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "B5MB11",
+        "ticker": "B5MB11.SA",
+        "nome": "B5MB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VWRA11",
+        "ticker": "VWRA11.SA",
+        "nome": "VWRA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "OGIN11",
+        "ticker": "OGIN11.SA",
+        "nome": "OGIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GPUS11",
+        "ticker": "GPUS11.SA",
+        "nome": "GPUS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RRES11",
+        "ticker": "RRES11.SA",
+        "nome": "RRES11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RZAT11",
+        "ticker": "RZAT11.SA",
+        "nome": "RZAT11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BTAL11",
+        "ticker": "BTAL11.SA",
+        "nome": "BTAL11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "AFHI11",
+        "ticker": "AFHI11.SA",
+        "nome": "AFHI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "JPPA11",
+        "ticker": "JPPA11.SA",
+        "nome": "JPPA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BINC11",
+        "ticker": "BINC11.SA",
+        "nome": "BINC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VCRA11",
+        "ticker": "VCRA11.SA",
+        "nome": "VCRA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "CRAA11",
+        "ticker": "CRAA11.SA",
+        "nome": "CRAA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "ARXD11",
+        "ticker": "ARXD11.SA",
+        "nome": "ARXD11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TD5011",
+        "ticker": "TD5011.SA",
+        "nome": "TD5011",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RINV11",
+        "ticker": "RINV11.SA",
+        "nome": "RINV11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "USDB11",
+        "ticker": "USDB11.SA",
+        "nome": "USDB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VCRR11",
+        "ticker": "VCRR11.SA",
+        "nome": "VCRR11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "FIND11",
+        "ticker": "FIND11.SA",
+        "nome": "FIND11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GENB11",
+        "ticker": "GENB11.SA",
+        "nome": "GENB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TD6011",
+        "ticker": "TD6011.SA",
+        "nome": "TD6011",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RCRB11",
+        "ticker": "RCRB11.SA",
+        "nome": "RCRB11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "SNFF11",
+        "ticker": "SNFF11.SA",
+        "nome": "SNFF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "JGPX11",
+        "ticker": "JGPX11.SA",
+        "nome": "JGPX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KNOX11",
+        "ticker": "KNOX11.SA",
+        "nome": "KNOX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RBIF11",
+        "ticker": "RBIF11.SA",
+        "nome": "RBIF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HTMX11",
+        "ticker": "HTMX11.SA",
+        "nome": "HTMX11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Hotel"
+    },
+    {
+        "codigo": "VVCR11",
+        "ticker": "VVCR11.SA",
+        "nome": "VVCR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "AZIN11",
+        "ticker": "AZIN11.SA",
+        "nome": "AZIN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FTCA11",
+        "ticker": "FTCA11.SA",
+        "nome": "FTCA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NUCL11",
+        "ticker": "NUCL11.SA",
+        "nome": "NUCL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HSLG11",
+        "ticker": "HSLG11.SA",
+        "nome": "HSLG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "KIVO11",
+        "ticker": "KIVO11.SA",
+        "nome": "KIVO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FIGS11",
+        "ticker": "FIGS11.SA",
+        "nome": "FIGS11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "KDOL11",
+        "ticker": "KDOL11.SA",
+        "nome": "KDOL11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "CPUR11",
+        "ticker": "CPUR11.SA",
+        "nome": "CPUR11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SNID11",
+        "ticker": "SNID11.SA",
+        "nome": "SNID11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HLOG11",
+        "ticker": "HLOG11.SA",
+        "nome": "HLOG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "QDFI11",
+        "ticker": "QDFI11.SA",
+        "nome": "QDFI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LLFT11",
+        "ticker": "LLFT11.SA",
+        "nome": "LLFT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FIVN11",
+        "ticker": "FIVN11.SA",
+        "nome": "FIVN11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BCIA11",
+        "ticker": "BCIA11.SA",
+        "nome": "BCIA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "TRXY11",
+        "ticker": "TRXY11.SA",
+        "nome": "TRXY11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "GCRA11",
+        "ticker": "GCRA11.SA",
+        "nome": "GCRA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "SLVR11",
+        "ticker": "SLVR11.SA",
+        "nome": "SLVR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BRZP11",
+        "ticker": "BRZP11.SA",
+        "nome": "BRZP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "EXES11",
+        "ticker": "EXES11.SA",
+        "nome": "EXES11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "LSAG11",
+        "ticker": "LSAG11.SA",
+        "nome": "LSAG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "INLG11",
+        "ticker": "INLG11.SA",
+        "nome": "INLG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "XPCM11",
+        "ticker": "XPCM11.SA",
+        "nome": "XPCM11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "HTEK11",
+        "ticker": "HTEK11.SA",
+        "nome": "HTEK11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BBOI11",
+        "ticker": "BBOI11.SA",
+        "nome": "BBOI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "TIRB11",
+        "ticker": "TIRB11.SA",
+        "nome": "TIRB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NSDV11",
+        "ticker": "NSDV11.SA",
+        "nome": "NSDV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XB6011",
+        "ticker": "XB6011.SA",
+        "nome": "XB6011",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PRIF11",
+        "ticker": "PRIF11.SA",
+        "nome": "PRIF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XB3511",
+        "ticker": "XB3511.SA",
+        "nome": "XB3511",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BPRE11",
+        "ticker": "BPRE11.SA",
+        "nome": "BPRE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "MGHT11",
+        "ticker": "MGHT11.SA",
+        "nome": "MGHT11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "META11",
+        "ticker": "META11.SA",
+        "nome": "META11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PIPE11",
+        "ticker": "PIPE11.SA",
+        "nome": "PIPE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AREA11",
+        "ticker": "AREA11.SA",
+        "nome": "AREA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PACG11",
+        "ticker": "PACG11.SA",
+        "nome": "PACG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DAYM11",
+        "ticker": "DAYM11.SA",
+        "nome": "DAYM11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GSFI11",
+        "ticker": "GSFI11.SA",
+        "nome": "GSFI11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "NDIV11",
+        "ticker": "NDIV11.SA",
+        "nome": "NDIV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DEFI11",
+        "ticker": "DEFI11.SA",
+        "nome": "DEFI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PPEI11",
+        "ticker": "PPEI11.SA",
+        "nome": "PPEI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SPTW11",
+        "ticker": "SPTW11.SA",
+        "nome": "SPTW11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HSRE11",
+        "ticker": "HSRE11.SA",
+        "nome": "HSRE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NUIF11",
+        "ticker": "NUIF11.SA",
+        "nome": "NUIF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PICE11",
+        "ticker": "PICE11.SA",
+        "nome": "PICE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ENDD11",
+        "ticker": "ENDD11.SA",
+        "nome": "ENDD11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PIBB11",
+        "ticker": "PIBB11.SA",
+        "nome": "PIBB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "ISUS11",
+        "ticker": "ISUS11.SA",
+        "nome": "ISUS11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "VPPR11",
+        "ticker": "VPPR11.SA",
+        "nome": "VPPR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BIDB11",
+        "ticker": "BIDB11.SA",
+        "nome": "BIDB11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FDES11",
+        "ticker": "FDES11.SA",
+        "nome": "FDES11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "RMBS11",
+        "ticker": "RMBS11.SA",
+        "nome": "RMBS11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "BIME11",
+        "ticker": "BIME11.SA",
+        "nome": "BIME11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SFIX11",
+        "ticker": "SFIX11.SA",
+        "nome": "SFIX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IVWO11",
+        "ticker": "IVWO11.SA",
+        "nome": "IVWO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SMAC11",
+        "ticker": "SMAC11.SA",
+        "nome": "SMAC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "WEB311",
+        "ticker": "WEB311.SA",
+        "nome": "WEB311",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SMRE11",
+        "ticker": "SMRE11.SA",
+        "nome": "SMRE11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "JCCJ11",
+        "ticker": "JCCJ11.SA",
+        "nome": "JCCJ11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "VSHO11",
+        "ticker": "VSHO11.SA",
+        "nome": "VSHO11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "XPID11",
+        "ticker": "XPID11.SA",
+        "nome": "XPID11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NSLU11",
+        "ticker": "NSLU11.SA",
+        "nome": "NSLU11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Hospital"
+    },
+    {
+        "codigo": "XLPR11",
+        "ticker": "XLPR11.SA",
+        "nome": "XLPR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "AFHF11",
+        "ticker": "AFHF11.SA",
+        "nome": "AFHF11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PLCA11",
+        "ticker": "PLCA11.SA",
+        "nome": "PLCA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "BNDX11",
+        "ticker": "BNDX11.SA",
+        "nome": "BNDX11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NEXG11",
+        "ticker": "NEXG11.SA",
+        "nome": "NEXG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "IBCR11",
+        "ticker": "IBCR11.SA",
+        "nome": "IBCR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XB4511",
+        "ticker": "XB4511.SA",
+        "nome": "XB4511",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "XB5011",
+        "ticker": "XB5011.SA",
+        "nome": "XB5011",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "HOFC11",
+        "ticker": "HOFC11.SA",
+        "nome": "HOFC11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "CXCI11",
+        "ticker": "CXCI11.SA",
+        "nome": "CXCI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "LASC11",
+        "ticker": "LASC11.SA",
+        "nome": "LASC11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "SCPF11",
+        "ticker": "SCPF11.SA",
+        "nome": "SCPF11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "OURO11",
+        "ticker": "OURO11.SA",
+        "nome": "OURO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "SVAL11",
+        "ticker": "SVAL11.SA",
+        "nome": "SVAL11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "CXCO11",
+        "ticker": "CXCO11.SA",
+        "nome": "CXCO11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "CXAG11",
+        "ticker": "CXAG11.SA",
+        "nome": "CXAG11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Varejo"
+    },
+    {
+        "codigo": "BITC11",
+        "ticker": "BITC11.SA",
+        "nome": "BITC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BLMG11",
+        "ticker": "BLMG11.SA",
+        "nome": "BLMG11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "LFTI11",
+        "ticker": "LFTI11.SA",
+        "nome": "LFTI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "DAMA11",
+        "ticker": "DAMA11.SA",
+        "nome": "DAMA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "ARTE11",
+        "ticker": "ARTE11.SA",
+        "nome": "ARTE11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Residencial"
+    },
+    {
+        "codigo": "RBRD11",
+        "ticker": "RBRD11.SA",
+        "nome": "RBRD11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "IWMI11",
+        "ticker": "IWMI11.SA",
+        "nome": "IWMI11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BTRA11",
+        "ticker": "BTRA11.SA",
+        "nome": "BTRA11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NBOV11",
+        "ticker": "NBOV11.SA",
+        "nome": "NBOV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FMOF11",
+        "ticker": "FMOF11.SA",
+        "nome": "FMOF11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Escritórios"
+    },
+    {
+        "codigo": "BDIV11",
+        "ticker": "BDIV11.SA",
+        "nome": "BDIV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PACC11",
+        "ticker": "PACC11.SA",
+        "nome": "PACC11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FVPQ11",
+        "ticker": "FVPQ11.SA",
+        "nome": "FVPQ11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Shoppings"
+    },
+    {
+        "codigo": "NBIT11",
+        "ticker": "NBIT11.SA",
+        "nome": "NBIT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GDIV11",
+        "ticker": "GDIV11.SA",
+        "nome": "GDIV11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "GOAT11",
+        "ticker": "GOAT11.SA",
+        "nome": "GOAT11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "FIIP11",
+        "ticker": "FIIP11.SA",
+        "nome": "FIIP11",
+        "tipo": "fiis",
+        "setor": "tijolo",
+        "subgrupo": "Logística"
+    },
+    {
+        "codigo": "PMFO11",
+        "ticker": "PMFO11.SA",
+        "nome": "PMFO11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BDAP11",
+        "ticker": "BDAP11.SA",
+        "nome": "BDAP11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "NEWL11",
+        "ticker": "NEWL11.SA",
+        "nome": "NEWL11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "T10R11",
+        "ticker": "T10R11.SA",
+        "nome": "T10R11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "PLAG11",
+        "ticker": "PLAG11.SA",
+        "nome": "PLAG11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "KOPA11",
+        "ticker": "KOPA11.SA",
+        "nome": "KOPA11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Títulos e Val. Mob."
+    },
+    {
+        "codigo": "SPYR11",
+        "ticker": "SPYR11.SA",
+        "nome": "SPYR11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "BOL511",
+        "ticker": "BOL511.SA",
+        "nome": "BOL511",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    },
+    {
+        "codigo": "LMAI11",
+        "ticker": "LMAI11.SA",
+        "nome": "LMAI11",
+        "tipo": "fiis",
+        "setor": "papel",
+        "subgrupo": "Multicategoria"
+    },
+    {
+        "codigo": "FSPE11",
+        "ticker": "FSPE11.SA",
+        "nome": "FSPE11",
+        "tipo": "fiis",
+        "setor": "outros",
+        "subgrupo": "Outros"
+    }
+]

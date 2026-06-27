@@ -1,0 +1,825 @@
+2026-06-27 11:18:01,452 [INFO] ===============================================
+2026-06-27 11:18:01,453 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:18:01,454 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:18:01,457 [INFO] Starting up TCP server on localhost:57365
+2026-06-27 11:18:01,464 [INFO] Flet app has started...
+2026-06-27 11:18:01,478 [INFO] App URL: tcp://localhost:57365
+2026-06-27 11:18:01,478 [INFO] Starting Flet View app...
+2026-06-27 11:18:01,489 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:18:01,733 [INFO] App session started
+2026-06-27 11:18:01,834 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:18:01,834 [INFO] Navigating to route: /
+2026-06-27 11:18:01,874 [INFO] Dashboard view appended successfully.
+2026-06-27 11:18:23,461 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:23,463 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:25,708 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:25,711 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:25,884 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:25,887 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:26,033 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:26,035 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:26,176 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:26,178 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:26,577 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:26,579 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:26,741 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:26,744 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:26,929 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:26,931 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:29,383 [INFO] Usuário selecionou mercado: acoes
+2026-06-27 11:18:29,385 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:30,093 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:18:49,129 [INFO] ===============================================
+2026-06-27 11:18:49,130 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:18:49,132 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:18:49,135 [INFO] Starting up TCP server on localhost:57974
+2026-06-27 11:18:49,142 [INFO] Flet app has started...
+2026-06-27 11:18:49,161 [INFO] App URL: tcp://localhost:57974
+2026-06-27 11:18:49,162 [INFO] Starting Flet View app...
+2026-06-27 11:18:49,175 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:18:49,439 [INFO] App session started
+2026-06-27 11:18:49,585 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:18:49,587 [INFO] Navigating to route: /
+2026-06-27 11:18:49,629 [INFO] Dashboard view appended successfully.
+2026-06-27 11:18:49,949 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:18:51,698 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:18:52,731 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:18:53,794 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:18:53,881 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:56,841 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:56,843 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:58,954 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:58,957 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,127 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,130 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,279 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,281 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,423 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,426 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,574 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,577 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,731 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,734 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:18:59,867 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:18:59,870 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:19:00,003 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:19:00,005 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:19:00,127 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:19:00,134 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:23:35,828 [INFO] ===============================================
+2026-06-27 11:23:35,829 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:23:35,832 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:23:35,839 [INFO] Starting up TCP server on localhost:58143
+2026-06-27 11:23:35,848 [INFO] Flet app has started...
+2026-06-27 11:23:35,864 [INFO] App URL: tcp://localhost:58143
+2026-06-27 11:23:35,864 [INFO] Starting Flet View app...
+2026-06-27 11:23:35,878 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:23:36,201 [INFO] App session started
+2026-06-27 11:23:36,320 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:23:36,320 [INFO] Navigating to route: /
+2026-06-27 11:23:36,361 [INFO] Dashboard view appended successfully.
+2026-06-27 11:23:36,649 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:23:37,657 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:23:39,146 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:23:41,156 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:25:21,661 [INFO] ===============================================
+2026-06-27 11:25:21,662 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:25:21,663 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:25:21,665 [INFO] Starting up TCP server on localhost:60092
+2026-06-27 11:25:21,672 [INFO] Flet app has started...
+2026-06-27 11:25:21,682 [INFO] App URL: tcp://localhost:60092
+2026-06-27 11:25:21,683 [INFO] Starting Flet View app...
+2026-06-27 11:25:21,694 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:25:21,949 [INFO] App session started
+2026-06-27 11:25:22,077 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:25:22,078 [INFO] Navigating to route: /
+2026-06-27 11:25:22,107 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:25:22,141 [INFO] Dashboard view appended successfully.
+2026-06-27 11:25:22,551 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:25:23,518 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:25:24,575 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:25:24,655 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:24,684 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:27,803 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:25:30,529 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:25:33,308 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:33,311 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:33,458 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:25:35,546 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:35,611 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:37,346 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:37,361 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:25:37,364 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:39,205 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:39,239 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:41,224 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:41,227 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:41,382 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:25:42,692 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:42,700 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:42,906 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:25:44,697 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:44,769 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:46,175 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:25:47,328 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:47,371 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:49,784 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:49,786 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:25:49,839 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:52,104 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:25:52,159 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:53,118 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:25:54,078 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,119 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,446 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,452 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,461 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,463 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,475 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,477 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,486 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,488 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,496 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,499 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,513 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,516 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,524 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,526 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,539 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,544 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,566 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,571 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,609 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,613 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,626 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,630 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,642 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,646 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,661 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,665 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,678 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,681 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,693 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,696 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,706 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,710 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,725 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,729 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,744 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,746 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,758 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,761 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,772 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,775 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:25:54,790 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:25:54,795 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:26:21,175 [ERROR] $ONCO11.SA: possibly delisted; no price data found  (period=100d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-27 11:26:22,303 [ERROR] 
+1 Failed download:
+2026-06-27 11:26:22,304 [ERROR] ['ONCO11.SA']: possibly delisted; no price data found  (period=100d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-27 11:27:04,616 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:04,621 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:12,346 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:12,348 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:14,174 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:14,178 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:15,665 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:15,667 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:36,282 [INFO] ===============================================
+2026-06-27 11:27:36,282 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:27:36,284 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:27:36,287 [INFO] Starting up TCP server on localhost:62686
+2026-06-27 11:27:36,296 [INFO] Flet app has started...
+2026-06-27 11:27:36,315 [INFO] App URL: tcp://localhost:62686
+2026-06-27 11:27:36,315 [INFO] Starting Flet View app...
+2026-06-27 11:27:36,326 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:27:36,672 [INFO] App session started
+2026-06-27 11:27:36,797 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:27:36,797 [INFO] Navigating to route: /
+2026-06-27 11:27:36,830 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:27:38,883 [INFO] Dashboard view appended successfully.
+2026-06-27 11:27:44,678 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:27:51,165 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:27:52,067 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:27:52,754 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:52,758 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:54,225 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:54,228 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:54,487 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:27:55,487 [ERROR] $ONCO11.SA: possibly delisted; no price data found  (period=700d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-27 11:27:55,656 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:27:56,258 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:27:56,262 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:27:56,827 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:27:57,795 [ERROR] 
+1 Failed download:
+2026-06-27 11:27:57,795 [ERROR] ['ONCO11.SA']: possibly delisted; no price data found  (period=700d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-27 11:27:57,901 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:28:00,964 [INFO] Session was garbage collected: mSJR1DPwSkPHcvce
+2026-06-27 11:28:00,977 [WARNING] Some tasks did not exit in time, skipping.
+2026-06-27 11:28:02,314 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:28:04,283 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:28:06,565 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:28:07,387 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:28:09,155 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:28:09,498 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:28:09,560 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:28:09,899 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:28:09,959 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:28:10,033 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:28:10,071 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:28:10,097 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:28:10,099 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:28:10,195 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:28:10,197 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:28:12,743 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:28:12,745 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:31:07,719 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:31:07,722 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:31:10,187 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:31:10,189 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:37:38,726 [INFO] ===============================================
+2026-06-27 11:37:38,726 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:37:38,730 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:37:38,734 [INFO] Starting up TCP server on localhost:65085
+2026-06-27 11:37:38,748 [INFO] Flet app has started...
+2026-06-27 11:37:38,774 [INFO] App URL: tcp://localhost:65085
+2026-06-27 11:37:38,774 [INFO] Starting Flet View app...
+2026-06-27 11:37:38,796 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:37:39,188 [INFO] App session started
+2026-06-27 11:37:39,391 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:37:39,391 [INFO] Navigating to route: /
+2026-06-27 11:37:39,455 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:37:41,587 [INFO] Dashboard view appended successfully.
+2026-06-27 11:37:49,926 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:37:50,792 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:37:51,665 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:37:52,393 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:37:53,324 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:37:54,247 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:37:55,591 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:37:56,270 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:37:56,565 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:37:57,333 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:37:58,052 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:37:58,755 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:37:59,544 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:38:00,320 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:38:01,055 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:38:01,698 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:38:02,435 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:38:03,013 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:38:03,800 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:38:04,645 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:38:05,419 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:38:06,189 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:38:06,867 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:38:07,589 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:38:08,220 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:38:09,037 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:38:09,855 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:38:10,565 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:38:11,257 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:38:11,947 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:38:12,595 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:38:13,237 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:38:14,100 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:38:15,036 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:38:15,939 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:38:16,754 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:38:17,489 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:38:18,293 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:38:19,402 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:38:20,047 [ERROR] Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2026-06-27 11:38:20,050 [INFO] Session was garbage collected: qj1L3qyuOsdG59F4
+2026-06-27 11:38:20,195 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:38:20,814 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:38:21,501 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:38:29,438 [INFO] ===============================================
+2026-06-27 11:38:29,439 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:38:29,440 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:38:29,443 [INFO] Starting up TCP server on localhost:65251
+2026-06-27 11:38:29,449 [INFO] Flet app has started...
+2026-06-27 11:38:29,464 [INFO] App URL: tcp://localhost:65251
+2026-06-27 11:38:29,465 [INFO] Starting Flet View app...
+2026-06-27 11:38:29,476 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:38:29,737 [INFO] App session started
+2026-06-27 11:38:29,837 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:38:29,837 [INFO] Navigating to route: /
+2026-06-27 11:38:29,870 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:38:31,792 [INFO] Dashboard view appended successfully.
+2026-06-27 11:38:39,853 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:38:40,836 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:38:41,498 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:38:42,211 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:38:42,444 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:38:42,479 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:38:44,434 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:38:44,436 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:44:31,937 [INFO] ===============================================
+2026-06-27 11:44:31,937 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:44:31,939 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:44:31,941 [INFO] Starting up TCP server on localhost:51347
+2026-06-27 11:44:31,948 [INFO] Flet app has started...
+2026-06-27 11:44:31,962 [INFO] App URL: tcp://localhost:51347
+2026-06-27 11:44:31,962 [INFO] Starting Flet View app...
+2026-06-27 11:44:31,974 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:44:32,233 [INFO] App session started
+2026-06-27 11:44:32,434 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:44:32,434 [INFO] Navigating to route: /
+2026-06-27 11:44:32,483 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:44:34,536 [INFO] Dashboard view appended successfully.
+2026-06-27 11:44:43,944 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:44:45,395 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:44:46,232 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:44:46,933 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:44:47,655 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:44:48,366 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:44:49,382 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:44:50,364 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:44:50,685 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:44:51,530 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:44:52,218 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:44:52,919 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:44:53,716 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:44:54,673 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:44:55,450 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:44:56,101 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:44:56,813 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:44:57,712 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:44:58,588 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:44:59,547 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:45:00,381 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:45:01,501 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:45:02,319 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:45:03,277 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:45:04,019 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:45:04,726 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:45:05,601 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:45:06,367 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:45:07,177 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:45:07,902 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:45:08,577 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:45:09,291 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:45:10,103 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:45:10,936 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:45:11,567 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:45:12,170 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:45:12,882 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:45:13,521 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:45:14,391 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:45:15,299 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:45:16,009 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:45:16,644 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:45:17,321 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:45:18,081 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:45:18,831 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:45:19,530 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:45:19,770 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:45:20,482 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:45:21,192 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:45:21,806 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:45:22,399 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:45:23,146 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:45:23,882 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:45:24,572 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:45:25,160 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:45:25,781 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:45:26,450 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:45:27,175 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:45:27,819 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:45:28,411 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:45:56,323 [INFO] ===============================================
+2026-06-27 11:45:56,324 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:45:56,326 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:45:56,329 [INFO] Starting up TCP server on localhost:51354
+2026-06-27 11:45:56,335 [INFO] Flet app has started...
+2026-06-27 11:45:56,346 [INFO] App URL: tcp://localhost:51354
+2026-06-27 11:45:56,346 [INFO] Starting Flet View app...
+2026-06-27 11:45:56,358 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:45:56,589 [INFO] App session started
+2026-06-27 11:45:56,677 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:45:56,677 [INFO] Navigating to route: /
+2026-06-27 11:45:56,702 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:45:57,957 [INFO] Dashboard view appended successfully.
+2026-06-27 11:46:04,338 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:46:05,166 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:46:05,903 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:46:06,486 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:46:06,777 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:06,844 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:08,370 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:46:08,372 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,001 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,003 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,389 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,391 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,401 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,404 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,412 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,415 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,422 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,424 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,433 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,435 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,442 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,447 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,454 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,456 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,466 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,469 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,476 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,480 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,487 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,489 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,499 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,502 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,509 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,513 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,522 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:46:42,525 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:46:42,536 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 11:46:42,539 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:50:21,925 [INFO] ===============================================
+2026-06-27 11:50:21,925 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:50:21,927 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:50:21,930 [INFO] Starting up TCP server on localhost:51388
+2026-06-27 11:50:21,938 [INFO] Flet app has started...
+2026-06-27 11:50:21,960 [INFO] App URL: tcp://localhost:51388
+2026-06-27 11:50:21,960 [INFO] Starting Flet View app...
+2026-06-27 11:50:21,973 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:50:22,556 [INFO] App session started
+2026-06-27 11:50:22,813 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:50:22,814 [INFO] Navigating to route: /
+2026-06-27 11:50:22,868 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:50:22,918 [INFO] Dashboard view appended successfully.
+2026-06-27 11:50:23,348 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:50:24,392 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:50:25,289 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:50:26,251 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:50:27,162 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:50:27,926 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:50:28,883 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:50:29,775 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:50:30,221 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:50:31,068 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:50:32,004 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:50:33,380 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:50:34,221 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:50:35,156 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:50:35,825 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:50:36,521 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:50:37,289 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:50:37,840 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:50:38,442 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:50:39,238 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:50:40,011 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:50:40,976 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:50:41,749 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:50:42,422 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:50:43,201 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:50:43,957 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:50:44,940 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:50:45,588 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:50:46,164 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:50:46,890 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:50:47,512 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:50:48,325 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:50:49,234 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:50:49,843 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:50:50,477 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:50:51,053 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:50:51,805 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:50:52,437 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:50:53,112 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:50:53,756 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:50:54,366 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:50:55,310 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:50:56,062 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:50:56,865 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:50:57,528 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:50:58,159 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:50:58,363 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:50:58,998 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:50:59,671 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:51:00,676 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:51:01,307 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:51:02,065 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:51:02,651 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:51:03,237 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:51:03,881 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:51:04,669 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:51:05,360 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:51:05,993 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:51:06,575 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:51:07,196 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:54:39,014 [INFO] Session was garbage collected: 5cCchCfCeIWW39RR
+2026-06-27 11:54:46,392 [INFO] ===============================================
+2026-06-27 11:54:46,392 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:54:46,394 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:54:46,396 [INFO] Starting up TCP server on localhost:51443
+2026-06-27 11:54:46,402 [INFO] Flet app has started...
+2026-06-27 11:54:46,413 [INFO] App URL: tcp://localhost:51443
+2026-06-27 11:54:46,413 [INFO] Starting Flet View app...
+2026-06-27 11:54:46,424 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:54:46,647 [INFO] App session started
+2026-06-27 11:54:46,754 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:54:46,755 [INFO] Navigating to route: /
+2026-06-27 11:54:46,787 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:54:46,823 [INFO] Dashboard view appended successfully.
+2026-06-27 11:54:47,149 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:54:47,880 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:54:48,786 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:54:49,729 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:54:50,863 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:54:51,918 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:54:52,780 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:54:53,506 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:54:53,765 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:54:54,646 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:54:55,853 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:54:56,681 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:54:57,440 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:54:58,106 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:54:58,838 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:54:59,659 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:55:00,673 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:55:01,490 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:55:02,135 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:55:02,761 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:55:03,193 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:55:03,439 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:55:04,372 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:55:07,242 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:55:09,424 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:55:10,699 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:55:10,724 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:55:12,590 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:55:17,751 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:55:27,843 [INFO] ===============================================
+2026-06-27 11:55:27,844 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:55:27,846 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:55:27,849 [INFO] Starting up TCP server on localhost:51448
+2026-06-27 11:55:27,854 [INFO] Flet app has started...
+2026-06-27 11:55:27,867 [INFO] App URL: tcp://localhost:51448
+2026-06-27 11:55:27,868 [INFO] Starting Flet View app...
+2026-06-27 11:55:27,880 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:55:28,138 [INFO] App session started
+2026-06-27 11:55:28,243 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:55:28,243 [INFO] Navigating to route: /
+2026-06-27 11:55:28,273 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:55:29,459 [INFO] Dashboard view appended successfully.
+2026-06-27 11:55:35,815 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:55:36,520 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:55:37,134 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 11:55:37,179 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:55:37,376 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:55:38,892 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:55:44,067 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:56:01,934 [INFO] ===============================================
+2026-06-27 11:56:01,934 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 11:56:01,936 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 11:56:01,938 [INFO] Starting up TCP server on localhost:51453
+2026-06-27 11:56:01,943 [INFO] Flet app has started...
+2026-06-27 11:56:01,955 [INFO] App URL: tcp://localhost:51453
+2026-06-27 11:56:01,955 [INFO] Starting Flet View app...
+2026-06-27 11:56:01,965 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 11:56:02,191 [INFO] App session started
+2026-06-27 11:56:02,288 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 11:56:02,288 [INFO] Navigating to route: /
+2026-06-27 11:56:02,311 [INFO] [CACHE PERSISTIDO] 366 ativos avaliados carregados do disco em 1 configuracoes.
+2026-06-27 11:56:03,539 [INFO] Dashboard view appended successfully.
+2026-06-27 11:56:10,255 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RAIZ4.SA PETR4.SA B3SA3.SA CSA.
+2026-06-27 11:56:10,887 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RENT3.SA VIVT3.SA SMFT3.SA SAU.
+2026-06-27 11:56:11,465 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para AURE3.SA RECV3.SA SIMH3.SA TTE.
+2026-06-27 11:56:12,058 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para DESK3.SA GFSA3.SA FIQE3.SA HBO.
+2026-06-27 11:56:12,637 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ALPK3.SA DEXP3.SA IFCM3.SA AZU.
+2026-06-27 11:56:13,229 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC5.SA EQPA3.SA AERI3.SA BEE.
+2026-06-27 11:56:13,904 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CEDO3.SA CLSC4.SA CEEB3.SA HAG.
+2026-06-27 11:56:14,588 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PATI4.SA CEGR3.SA NEXP3.SA TXR.
+2026-06-27 11:56:14,858 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:56:15,421 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:56:16,024 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:56:16,588 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:56:17,144 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:56:17,686 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:56:18,433 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:56:19,155 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:56:19,769 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:56:20,323 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:56:20,835 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:56:21,401 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:56:21,917 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BPAC11.SA GOLD11.SA SMAL11.SA .
+2026-06-27 11:56:22,496 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para MCRE11.SA DOLA11.SA SPXR11.SA .
+2026-06-27 11:56:23,081 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBRY11.SA UTEC11.SA LIFE11.SA .
+2026-06-27 11:56:23,773 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para KNCA11.SA SNME11.SA OXRL11.SA .
+2026-06-27 11:56:24,473 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para XBIT11.SA RECM11.SA TVRI11.SA .
+2026-06-27 11:56:25,033 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para FIXA11.SA CAUT11.SA BBFO11.SA .
+2026-06-27 11:56:25,582 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GENB11.SA TD6011.SA RCRB11.SA .
+2026-06-27 11:56:26,140 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para HSRE11.SA NUIF11.SA PICE11.SA .
+2026-06-27 11:56:26,690 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GDIV11.SA GOAT11.SA FIIP11.SA .
+2026-06-27 11:56:27,196 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para CXRI11.SA BSLT11.SA MCEM11.SA .
+2026-06-27 11:56:27,766 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para GLOG11.SA CARE11.SA SCVB11.SA .
+2026-06-27 11:56:28,427 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para RBDS11.SA BTYU11.SA LTNB11.SA .
+2026-06-27 11:56:29,052 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:56:29,605 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:56:30,108 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:56:30,607 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:56:31,225 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:56:31,843 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:56:32,442 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:56:33,807 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:56:34,847 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:56:35,425 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:56:36,006 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:56:36,619 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:56:36,996 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:56:37,506 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:56:38,194 [INFO] [CACHE INFO] Banco local preparado priorizado (1d). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:56:38,416 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para ROXO34.SA NVDC34.SA M2ST34.SA .
+2026-06-27 11:56:39,035 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para PYPL34.SA IBIT39.SA PEPB34.SA .
+2026-06-27 11:56:39,499 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para UNHH34.SA L1RC34.SA V2TX34.SA .
+2026-06-27 11:56:40,026 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para COLG34.SA BOTZ39.SA JDCO34.SA .
+2026-06-27 11:56:40,535 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para WFCO34.SA GPRO34.SA BIBB39.SA .
+2026-06-27 11:56:41,218 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para V2RN34.SA G1FI34.SA F1SL34.SA .
+2026-06-27 11:56:41,755 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para U1HS34.SA HOME34.SA E2EF34.SA .
+2026-06-27 11:56:42,294 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para SNEC34.SA T1MU34.SA M1SI34.SA .
+2026-06-27 11:56:42,574 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:56:44,097 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BAER39.SA I1PG34.SA S1NP34.SA .
+2026-06-27 11:56:46,898 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para P2EG34.SA USIG39.SA G1DS34.SA .
+2026-06-27 11:56:49,195 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:56:49,196 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para S1TT34.SA W1MC34.SA C2HP34.SA .
+2026-06-27 11:56:51,357 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para BEIS39.SA E2LS34.SA D2AS34.SA .
+2026-06-27 11:56:52,045 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para F2IC34.SA BAGG39.SA DVAI34.SA .
+2026-06-27 11:56:52,688 [INFO] [CACHE INFO] Banco local preparado priorizado (1wk). Ignorando rede para B1LL34.SA BQQW39.SA C2OL34.SA .
+2026-06-27 11:56:59,058 [INFO] Usuário selecionou filtro: cart_czczxc
+2026-06-27 11:56:59,061 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 11:57:01,010 [INFO] Usuário selecionou filtro: all
+2026-06-27 11:57:06,968 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:00:13,136 [INFO] Usuário selecionou timeframe: 1s
+2026-06-27 12:00:13,141 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:02:00,799 [INFO] ===============================================
+2026-06-27 12:02:00,799 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:02:00,801 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:02:00,805 [INFO] Starting up TCP server on localhost:51517
+2026-06-27 12:02:00,814 [INFO] Flet app has started...
+2026-06-27 12:02:00,835 [INFO] App URL: tcp://localhost:51517
+2026-06-27 12:02:00,835 [INFO] Starting Flet View app...
+2026-06-27 12:02:00,853 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:02:01,210 [INFO] App session started
+2026-06-27 12:02:01,391 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:02:01,391 [INFO] Navigating to route: /
+2026-06-27 12:02:01,512 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:02:05,243 [INFO] Dashboard view appended successfully.
+2026-06-27 12:10:43,184 [INFO] ===============================================
+2026-06-27 12:10:43,185 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:10:43,186 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:10:43,189 [INFO] Starting up TCP server on localhost:51566
+2026-06-27 12:10:43,196 [INFO] Flet app has started...
+2026-06-27 12:10:43,209 [INFO] App URL: tcp://localhost:51566
+2026-06-27 12:10:43,209 [INFO] Starting Flet View app...
+2026-06-27 12:10:43,221 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:10:43,466 [INFO] App session started
+2026-06-27 12:10:43,574 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:10:43,575 [INFO] Navigating to route: /
+2026-06-27 12:10:43,655 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:10:45,074 [INFO] Dashboard view appended successfully.
+2026-06-27 12:10:56,349 [INFO] Usuário selecionou filtro: cart_czczxc
+2026-06-27 12:10:56,351 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:10:58,880 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:10:59,991 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:01,272 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 12:11:01,275 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:03,352 [INFO] Usuário selecionou filtro: cart_czczxc
+2026-06-27 12:11:03,354 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:05,392 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:11:05,405 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:11,066 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:11,068 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:12,103 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:11:12,116 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:17,080 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:17,082 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:17,240 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:17,245 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:17,400 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:17,405 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:17,548 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:17,553 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:17,656 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:17,661 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:18,040 [INFO] Usuário selecionou filtro: cart_czczxc
+2026-06-27 12:11:18,044 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:18,652 [INFO] Usuário selecionou filtro: ocultos
+2026-06-27 12:11:18,663 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:20,088 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:11:20,269 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:21,367 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:21,510 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:23,676 [INFO] Usuário selecionou mercado: acoes
+2026-06-27 12:11:23,818 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:26,368 [INFO] Usuário selecionou mercado: fiis
+2026-06-27 12:11:26,596 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:41,657 [INFO] ===============================================
+2026-06-27 12:11:41,657 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:11:41,659 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:11:41,661 [INFO] Starting up TCP server on localhost:51584
+2026-06-27 12:11:41,667 [INFO] Flet app has started...
+2026-06-27 12:11:41,678 [INFO] App URL: tcp://localhost:51584
+2026-06-27 12:11:41,678 [INFO] Starting Flet View app...
+2026-06-27 12:11:41,687 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:11:41,959 [INFO] App session started
+2026-06-27 12:11:42,097 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:11:42,097 [INFO] Navigating to route: /
+2026-06-27 12:11:42,175 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:11:44,710 [INFO] Dashboard view appended successfully.
+2026-06-27 12:11:55,458 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:55,460 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:11:58,970 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:11:58,974 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:12:00,032 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:12:01,631 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:12:04,032 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:12:04,035 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:12:08,446 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:12:10,159 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:12:12,756 [INFO] Usuário selecionou mercado: acoes
+2026-06-27 12:12:12,759 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:12:47,816 [INFO] ===============================================
+2026-06-27 12:12:47,816 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:12:47,818 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:12:47,820 [INFO] Starting up TCP server on localhost:51590
+2026-06-27 12:12:47,826 [INFO] Flet app has started...
+2026-06-27 12:12:47,837 [INFO] App URL: tcp://localhost:51590
+2026-06-27 12:12:47,838 [INFO] Starting Flet View app...
+2026-06-27 12:12:47,847 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:12:48,089 [INFO] App session started
+2026-06-27 12:12:48,186 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:12:48,186 [INFO] Navigating to route: /
+2026-06-27 12:12:48,263 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:12:49,652 [INFO] Dashboard view appended successfully.
+2026-06-27 12:13:21,341 [INFO] Usuário selecionou filtro: cart_Principal
+2026-06-27 12:13:21,343 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:13:23,374 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:13:24,567 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:13:26,974 [INFO] Usuário selecionou filtro: cart_czczxc
+2026-06-27 12:13:26,976 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:13:28,834 [INFO] Usuário selecionou filtro: all
+2026-06-27 12:13:29,834 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:13:32,792 [INFO] Usuário selecionou mercado: fiis
+2026-06-27 12:13:32,794 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:15:47,662 [INFO] ===============================================
+2026-06-27 12:15:47,662 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:15:47,663 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:15:47,665 [INFO] Starting up TCP server on localhost:51624
+2026-06-27 12:15:47,671 [INFO] Flet app has started...
+2026-06-27 12:15:47,682 [INFO] App URL: tcp://localhost:51624
+2026-06-27 12:15:47,682 [INFO] Starting Flet View app...
+2026-06-27 12:15:47,691 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:15:47,922 [INFO] App session started
+2026-06-27 12:15:48,055 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:15:48,055 [INFO] Navigating to route: /
+2026-06-27 12:15:48,141 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:15:50,831 [INFO] Dashboard view appended successfully.
+2026-06-27 12:17:59,020 [INFO] Usuário selecionou mercado: acoes
+2026-06-27 12:17:59,023 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 12:18:08,074 [INFO] ===============================================
+2026-06-27 12:18:08,074 [INFO] INICIANDO TERMINAL B3 PRO (ROUTER ENABLED)...
+2026-06-27 12:18:08,079 [INFO] Assets path configured: C:\Users\mycro\Desktop\terminal-b3-pro-python-main\assets
+2026-06-27 12:18:08,083 [INFO] Starting up TCP server on localhost:51670
+2026-06-27 12:18:08,091 [INFO] Flet app has started...
+2026-06-27 12:18:08,112 [INFO] App URL: tcp://localhost:51670
+2026-06-27 12:18:08,112 [INFO] Starting Flet View app...
+2026-06-27 12:18:08,127 [INFO] Flet client found in cache: C:\Users\mycro\.flet\client\flet-desktop-full-0.85.3
+2026-06-27 12:18:08,446 [INFO] App session started
+2026-06-27 12:18:08,580 [INFO] Forçando renderização inicial da rota base.
+2026-06-27 12:18:08,580 [INFO] Navigating to route: /
+2026-06-27 12:18:08,682 [INFO] [CACHE PERSISTIDO] 3252 ativos avaliados carregados do disco em 6 configuracoes.
+2026-06-27 12:18:10,662 [INFO] Dashboard view appended successfully.
+2026-06-27 13:05:18,769 [INFO] Usuário selecionou mercado: fiis
+2026-06-27 13:05:18,772 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 13:14:36,180 [INFO] Usuário selecionou mercado: fiis
+2026-06-27 13:14:36,286 [INFO] Estado da UI salvo com sucesso.
+2026-06-27 13:14:40,012 [ERROR] Exception in callback BaseEventLoop.run_in_executor()
+handle: <_ThreadSafeHandle BaseEventLoop.run_in_executor()>
+Traceback (most recent call last):
+  File "C:\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 898, in run_in_executor
+    executor.submit(func, *args), loop=self)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\thread.py", line 205, in submit
+    raise RuntimeError('cannot schedule new futures after shutdown')
+RuntimeError: cannot schedule new futures after shutdown
+2026-06-27 13:14:41,539 [INFO] Session was garbage collected: FOVpESrR6pZnaosR
+2026-06-27 13:14:41,543 [WARNING] Some tasks did not exit in time, skipping.
